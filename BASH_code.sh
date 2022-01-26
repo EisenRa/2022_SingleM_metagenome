@@ -30,3 +30,12 @@ gen-paired-end-reads 2_Simulated_reads/Plasmodium_config.ini
 pigz 1_References/GCF_000002765.5_GCA_000002765_genomic.fna
 
 pigz 2_Simulated_reads/*.fastq
+
+### Run SingleM pipe on the simulated reads
+singlem pipe \
+--singlem_packages ../singlem/S3.metapackage_20211007.smpkg/ \
+--forward Plasmodium_reads-R1.fastq.gz \
+--reverse Plasmodium_reads-R2.fastq.gz \
+--threads 10 \
+--otu-table Plasmodium_singleM \
+--output-extras
