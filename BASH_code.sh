@@ -19,23 +19,42 @@ mv *.fna.gz 1_References/
 #N.B., takes uncompressed fastas as input
 pigz -d 1_References/GCF_000001405.39_GRCh38.p13_genomic.fna.gz
 gen-paired-end-reads 2_Simulated_reads/Human_config.ini
-pigz 1_References/GCF_000001405.39_GRCh38.p13_genomic.fna
+pigz -p 40 1_References/GCF_000001405.39_GRCh38.p13_genomic.fna
 
 pigz -d 1_References/GCF_000001735.4_TAIR10.1_genomic.fna.gz
 gen-paired-end-reads 2_Simulated_reads/Arabadopsis_config.ini
-pigz 1_References/GCF_000001735.4_TAIR10.1_genomic.fna
+pigz -p 40 1_References/GCF_000001735.4_TAIR10.1_genomic.fna
 
 pigz -d 1_References/GCF_000002765.5_GCA_000002765_genomic.fna.gz
 gen-paired-end-reads 2_Simulated_reads/Plasmodium_config.ini
-pigz 1_References/GCF_000002765.5_GCA_000002765_genomic.fna
+pigz -p 40 1_References/GCF_000002765.5_GCA_000002765_genomic.fna
 
-pigz 2_Simulated_reads/*.fastq
+pigz -p 40 2_Simulated_reads/*.fastq
 
 ### Run SingleM pipe on the simulated reads
 singlem pipe \
---singlem_packages ../singlem/S3.metapackage_20211007.smpkg/ \
---forward Plasmodium_reads-R1.fastq.gz \
---reverse Plasmodium_reads-R2.fastq.gz \
---threads 10 \
---otu-table Plasmodium_singleM \
+--singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--forward 2_Simulated_reads/Plasmodium_reads-R1.fastq.gz \
+--reverse 2_Simulated_reads/Plasmodium_reads-R2.fastq.gz \
+--threads 40 \
+--include-inserts \
+--otu-table Plasmodium_singleM_inserts \
+--output-extras
+
+singlem pipe \
+--singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--forward 2_Simulated_reads/Arabadopsis_reads-R1.fastq.gz \
+--reverse 2_Simulated_reads/Arabadopsis_reads-R2.fastq.gz \
+--threads 40 \
+--include-inserts \
+--otu-table Arabidopsis_singleM_inserts \
+--output-extras
+
+singlem pipe \
+--singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--forward 2_Simulated_reads/Human_reads-R1.fastq.gz \
+--reverse 2_Simulated_reads/Human_reads-R2.fastq.gz \
+--threads 40 \
+--include-inserts \
+--otu-table Human_singleM_inserts \
 --output-extras
