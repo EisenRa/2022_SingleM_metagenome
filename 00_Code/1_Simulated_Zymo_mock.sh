@@ -5,14 +5,48 @@ export THREADS=40
 wget https://s3.amazonaws.com/zymo-files/BioPool/ZymoBIOMICS.STD.refseq.v2.zip
 unzip ZymoBIOMICS.STD.refseq.v2.zip
 
+#N.B. the Cryptococcus_neoformans_draft_genome is REALLY bad. A lot of contigs are < 1000 bp,
+#which means we can't simulate reads from them. I'll filter contigs < 1 kb.
+reformat.sh \
+in=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome.fasta \
+out=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome_1kb.fasta \
+minlength=1000
+
+rm 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome.fasta
+
+#Also, headers are not correct for coverM input, so change them for the yeast assemblies:
+rename.sh \
+in=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome_1kb.fasta \
+out=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome_1kb_RF.fasta \
+prefix=Cryptococcus_
+
+rename.sh \
+in=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Saccharomyces_cerevisiae_draft_genome.fasta \
+out=1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Saccharomyces_cerevisiae_draft_genome_RF.fasta \
+prefix=Saccharomyces_
+
+rm 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Saccharomyces_cerevisiae_draft_genome.fasta
+rm 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome_1kb.fasta
+
 ### Create simulated reads from these genomes
 #https://github.com/merenlab/reads-for-assembly
 #N.B., takes uncompressed fastas as input
-pigz -d 1_References/GCF_000001405.39_GRCh38.p13_genomic.fna.gz
 gen-paired-end-reads 00_Code/Simulated_Zymo.ini
-pigz -p $THREADS 1_References/GCF_000001405.39_GRCh38.p13_genomic.fna
+mv 2_Simulated_reads/Simulated_Zymo-R1.fastq 2_Simulated_reads/Simulated_Zymo_1.fastq
+mv 2_Simulated_reads/Simulated_Zymo-R2.fastq 2_Simulated_reads/Simulated_Zymo_2.fastq
 
-pigz -p $THREADS 2_Simulated_reads/*.fastq
+pigz -p $THREADS 2_Simulated_reads/Simulated_Zymo*.fastq
+
+### Spike in simulated human reads into simulated Zymo mock.
+#Note, the sim. Zymo mock has 0.38 Gbp, whereas simulated human reads are ~6.6 Gbp
+#Need to randomly sample the human reads to 1.14 Gbp -> 25% mock vs 75% human
+seqtk sample -s 1337 2_Simulated_reads/Human_reads-R1.fastq.gz 3800000 > 2_Simulated_reads/Human_reads_3-8M_1.fastq
+seqtk sample -s 1337 2_Simulated_reads/Human_reads-R2.fastq.gz 3800000 > 2_Simulated_reads/Human_reads_3-8M_2.fastq
+pigz -p $THREADS 2_Simulated_reads/Human_reads_3-8M*.fastq
+
+cat 2_Simulated_reads/Human_reads_3-8M_1.fastq.gz 2_Simulated_reads/Simulated_Zymo_1.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_1.fastq.gz
+cat 2_Simulated_reads/Human_reads_3-8M_2.fastq.gz 2_Simulated_reads/Simulated_Zymo_2.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_2.fastq.gz
+
 
 ### Map simulated reads to reference genomes using Bowtie2
 cat 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/*.fasta > 1_References/ZymoCatted.fna
@@ -22,13 +56,15 @@ bowtie2-build \
 --threads $THREADS \
 1_References/ZymoCatted.fna.gz 1_References/ZymoCatted.fna.gz
 
-bowtie2 \
---threads $THREADS \
--x 1_References/ZymoCatted.fna.gz \
--1  \
--2  \
---seed 1337 \
-| samtools sort -@ $THREADS -o Simulated_Zymo_Bt2.bam -
+for i in 2_Simulated_reads/Simulated_Zymo*_1.fastq.gz; do
+  bowtie2 \
+          --threads $THREADS \
+          -x 1_References/ZymoCatted.fna.gz \
+          -1 $i \
+          -2 ${i/_1.fastq/_2.fastq} \
+          --seed 1337 \
+          | samtools sort -@ $THREADS -o ${i/_1.fastq.gz/_Bt2.bam} -;
+    done
 
 coverm genome \
         -b 2_Simulated_reads/*.bam \
@@ -39,11 +75,13 @@ coverm genome \
         > 3_Outputs/Simulated_zymo_Bt2_coverM.tsv
 
 ### Run SingleM pipe on the simulated reads
-singlem pipe \
---singlem_metapackage S3.metapackage_20211007.smpkg/ \
---forward 2_Simulated_reads/Plasmodium_reads-R1.fastq.gz \
---reverse 2_Simulated_reads/Plasmodium_reads-R2.fastq.gz \
---threads $THREADS \
---include-inserts \
---otu-table Plasmodium_singleM_inserts \
---output-extras
+for i in 2_Simulated_reads/*Zymo*_1.fastq.gz; do
+  singlem pipe \
+          --singlem_metapackage 0_Database/S3.metapackage_20211007.smpkg/ \
+          --forward $i \
+          --reverse ${i/_1.fastq/_2.fastq} \
+          --threads $THREADS \
+          --include-inserts \
+          --otu-table 3_Outputs/$(basename ${i/_1.fastq.gz/.tsv}) \
+          --output-extras;
+    done

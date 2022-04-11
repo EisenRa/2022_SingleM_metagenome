@@ -3,9 +3,10 @@
 ### SingleM database setup
 #Download newer SingleM gene package:
 wget https://zenodo.org/record/5739612/files/S3.metapackage_20211007.smpkg.tar.gz?download=1
-mv S3.metapackage_20211007.smpkg.tar.gz?download=1 0_Database/S3.metapackage_20211007.smpkg.tar.gz
-tar -xvzf 0_Database/S3.metapackage_20211007.smpkg.tar.gz
-
+mv S3.metapackage_20211007.smpkg.tar.gz?download=1 S3.metapackage_20211007.smpkg.tar.gz
+tar -xvzf S3.metapackage_20211007.smpkg.tar.gz
+mv S3.metapackage_20211007.smpkg 0_Database/S3.metapackage_20211007.smpkg
+rm S3.metapackage_20211007.smpkg.tar.gz
 
 ### Simulating Eukaryotic genome reads
 #Download reference genomes (Homo sapien, Arabadopsis thaliana, Plasmodium falciparum):
