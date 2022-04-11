@@ -28,6 +28,9 @@ prefix=Saccharomyces_
 rm 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Saccharomyces_cerevisiae_draft_genome.fasta
 rm 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Cryptococcus_neoformans_draft_genome_1kb.fasta
 
+#Finally, Bacillus assembly has a funky header, so rename: ">BS.pilon.polished.v3.ST170922"
+sed -i'' 's/BS.pilon.polished.v3.ST170922/Bacillus_subtilis_complete_genome/' 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/Bacillus_subtilis_complete_genome.fasta
+
 ### Create simulated reads from these genomes
 #https://github.com/merenlab/reads-for-assembly
 #N.B., takes uncompressed fastas as input
