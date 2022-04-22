@@ -34,7 +34,7 @@ pigz -p 40 2_Simulated_reads/*.fastq
 
 ### Run SingleM pipe on the simulated reads
 singlem pipe \
---singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Plasmodium_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Plasmodium_reads-R2.fastq.gz \
 --threads 40 \
@@ -43,7 +43,7 @@ singlem pipe \
 --output-extras
 
 singlem pipe \
---singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Arabadopsis_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Arabadopsis_reads-R2.fastq.gz \
 --threads 40 \
@@ -52,7 +52,7 @@ singlem pipe \
 --output-extras
 
 singlem pipe \
---singlem_metapackage S3.metapackage_20211007.smpkg/ \
+--singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Human_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Human_reads-R2.fastq.gz \
 --threads 40 \

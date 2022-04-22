@@ -80,7 +80,7 @@ coverm genome \
 ### Run SingleM pipe on the simulated reads
 for i in 2_Simulated_reads/*Zymo*_1.fastq.gz; do
   singlem pipe \
-          --singlem_metapackage 0_Database/S3.metapackage_20211007.smpkg/ \
+          --singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
           --forward $i \
           --reverse ${i/_1.fastq/_2.fastq} \
           --threads $THREADS \
