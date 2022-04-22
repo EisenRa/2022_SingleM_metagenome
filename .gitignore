@@ -1,3 +1,6 @@
+.gitignore
+.Rproj.user/
+2022_SingleM_simulated.Rproj
 0_Database/
 1_References/
 2_Simulated_reads/
