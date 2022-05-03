@@ -65,3 +65,13 @@ for i in 2_Simulated_reads/Real_zymo_reads/*Spiked_1.fastq.gz; do
           --otu-table 3_Outputs/$(basename ${i/_1.fastq.gz/.tsv}) \
           --output-extras;
     done
+
+
+### Run SingleM condense
+for i in 3_Outputs/.tsv; do
+  singlem condense \
+          --singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
+          --input-otu-tables $i \
+          --output-otu-table ${i/.tsv/_condense.tsv} \
+          --trim-percent 10;
+    done

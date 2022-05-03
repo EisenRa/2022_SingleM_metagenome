@@ -1,5 +1,7 @@
 .gitignore
 .Rproj.user/
+.Rhistory
+.Rprofile
 2022_SingleM_simulated.Rproj
 0_Database/
 1_References/
