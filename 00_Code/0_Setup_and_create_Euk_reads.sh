@@ -2,11 +2,11 @@
 
 ### SingleM database setup
 #Download newer SingleM gene package:
-wget https://zenodo.org/record/5739612/files/S3.metapackage_20211007.smpkg.tar.gz?download=1
-mv S3.metapackage_20211007.smpkg.tar.gz?download=1 S3.metapackage_20211007.smpkg.tar.gz
-tar -xvzf S3.metapackage_20211007.smpkg.tar.gz
-mv S3.metapackage_20211007.smpkg 0_Database/S3.metapackage_20211007.smpkg
-rm S3.metapackage_20211007.smpkg.tar.gz
+wget https://zenodo.org/record/6534091/files/S3.0.2.metapackage_20211101.smpkg.zb.tar.gz?download=1
+mv S3.0.2.metapackage_20211101.smpkg.zb.tar.gz?download=1 S3.0.2.metapackage_20211101.smpkg.zb.tar.gz
+tar -xvzf S3.0.2.metapackage_20211101.smpkg.zb.tar.gz
+mv S3.0.2.metapackage_20211101.smpkg.zb/payload_directory/S3.0.1.metapackage_20211101.smpkg/ 0_Database/S3.0.2.metapackage_20211101.smpkg
+rm S3.0.2.metapackage_20211101.smpkg.zb.tar.gz
 
 ### Simulating Eukaryotic genome reads
 #Download reference genomes (Homo sapien, Arabadopsis thaliana, Plasmodium falciparum):
@@ -34,28 +34,25 @@ pigz -p 40 2_Simulated_reads/*.fastq
 
 ### Run SingleM pipe on the simulated reads
 singlem pipe \
---singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
+--singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Plasmodium_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Plasmodium_reads-R2.fastq.gz \
 --threads 40 \
---include-inserts \
---otu-table Plasmodium_singleM_inserts \
+--otu-table 3_Outputs/Plasmodium_singleM.csv \
 --output-extras
 
 singlem pipe \
---singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
+--singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Arabadopsis_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Arabadopsis_reads-R2.fastq.gz \
 --threads 40 \
---include-inserts \
---otu-table Arabidopsis_singleM_inserts \
+--otu-table 3_Outputs/Arabidopsis_singleM.csv \
 --output-extras
 
 singlem pipe \
---singlem_metapackage S3.0.1.metapackage_20211101.smpkg/ \
+--singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
 --forward 2_Simulated_reads/Human_reads-R1.fastq.gz \
 --reverse 2_Simulated_reads/Human_reads-R2.fastq.gz \
 --threads 40 \
---include-inserts \
---otu-table Human_singleM_inserts \
+--otu-table 3_Outputs/Human_singleM.csv \
 --output-extras
