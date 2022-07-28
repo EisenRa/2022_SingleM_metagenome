@@ -1,0 +1,28 @@
+sample	coverage	taxonomy	lowest_rank	genome_size	estimated_bp	estimated_mbp	estimated_gbp
+Simulated_Zymo_Spiked_1	0.1	Root; d__Archaea	Archaea	1888983.3779178064	188898.33779178065	0.18889833779178064	1.8889833779178064e-4
+Simulated_Zymo_Spiked_1	0.85	Root; d__Bacteria	Bacteria	3403802.674777494	2893232.2735608695	2.8932322735608693	0.0028932322735608696
+Simulated_Zymo_Spiked_1	0.11	Root; d__Bacteria; p__Proteobacteria	Proteobacteria	3498809.2910978207	384869.0220207603	0.3848690220207603	3.848690220207603e-4
+Simulated_Zymo_Spiked_1	1.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria	Gammaproteobacteria	3506957.0063654007	4383696.257956751	4.383696257956751	0.004383696257956751
+Simulated_Zymo_Spiked_1	3.98	Root; d__Bacteria; p__Firmicutes; c__Bacilli	Bacilli	2781834.5259574726	11071701.41331074	11.07170141331074	0.01107170141331074
+Simulated_Zymo_Spiked_1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales	Pseudomonadales	3891549.0455091153	661563.3377365497	0.6615633377365496	6.615633377365497e-4
+Simulated_Zymo_Spiked_1	2.56	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales	Enterobacterales	3695267.5093859136	9459884.824027939	9.459884824027938	0.00945988482402794
+Simulated_Zymo_Spiked_1	1.56	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales	Lactobacillales	2275310.516142952	3549484.405183005	3.549484405183005	0.003549484405183005
+Simulated_Zymo_Spiked_1	0.17	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales	Staphylococcales	2098194.8406355064	356693.1229080361	0.3566931229080361	3.566931229080361e-4
+Simulated_Zymo_Spiked_1	2.56	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae	Pseudomonadaceae	4317286.487488474	11052253.407970494	11.052253407970493	0.011052253407970494
+Simulated_Zymo_Spiked_1	14.51	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae	Enterobacteriaceae	3935414.82960025	57102869.17749962	57.10286917749962	0.05710286917749962
+Simulated_Zymo_Spiked_1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae	Lactobacillaceae	2065096.1583962643	474972.1164311408	0.4749721164311408	4.749721164311408e-4
+Simulated_Zymo_Spiked_1	4.95	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae	Enterococcaceae	2770439.7113556736	13713676.571210586	13.713676571210586	0.013713676571210585
+Simulated_Zymo_Spiked_1	2.44	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Listeriaceae	Listeriaceae	2878689.604123736	7024002.634061915	7.024002634061915	0.007024002634061915
+Simulated_Zymo_Spiked_1	0.85	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae	Staphylococcaceae	2400252.704125288	2040214.7985064946	2.0402147985064945	0.0020402147985064947
+Simulated_Zymo_Spiked_1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae	Bacillaceae	4652619.051366468	1302733.334382611	1.302733334382611	0.0013027333343826112
+Simulated_Zymo_Spiked_1	2.39	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas	Pseudomonas	6378167.927249623	15243821.346126601	15.243821346126602	0.0152438213461266
+Simulated_Zymo_Spiked_1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia	Escherichia	4714357.034953865	1084302.1180393891	1.0843021180393893	0.0010843021180393891
+Simulated_Zymo_Spiked_1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Salmonella	Salmonella	4727911.407569556	1607489.878573649	1.6074898785736491	0.001607489878573649
+Simulated_Zymo_Spiked_1	21.38	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Limosilactobacillus	Limosilactobacillus	1837743.5212044136	39290956.48335036	39.29095648335036	0.03929095648335036
+Simulated_Zymo_Spiked_1	1.31	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus	Enterococcus	3759929.6228548666	4925507.805939876	4.925507805939875	0.004925507805939876
+Simulated_Zymo_Spiked_1	9.61	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Listeriaceae; g__Listeria	Listeria	2818525.6306079216	27086031.310142126	27.086031310142126	0.027086031310142127
+Simulated_Zymo_Spiked_1	12.17	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus	Staphylococcus	2589032.7919142223	31508529.077596087	31.508529077596087	0.03150852907759609
+Simulated_Zymo_Spiked_1	6.37	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus	Bacillus	4018477.224865476	25597699.922393084	25.597699922393083	0.025597699922393084
+Simulated_Zymo_Spiked_1	0.57	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Limosilactobacillus; s__Limosilactobacillus fermentum	Limosilactobacillus fermentum	2028067.1188118812	1155998.2577227722	1.155998257722772	0.0011559982577227723
+Simulated_Zymo_Spiked_1	6.77	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus faecalis	Enterococcus faecalis	2985091.9089952656	20209072.223897945	20.209072223897945	0.020209072223897947
+Simulated_Zymo_Spiked_1	1.82	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus aureus	Staphylococcus aureus	2829268.2834368055	5149268.275854986	5.149268275854986	0.005149268275854986
