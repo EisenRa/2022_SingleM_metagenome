@@ -1,6 +1,7 @@
-##
-##
-##
+################################################################################
+## Script for getting genome sizes per rank from the GTDB
+## Raphael Eisenhofer June 2022
+################################################################################
 
 ## Load libraries
 library(tidyverse)
@@ -61,51 +62,72 @@ gtdb_combined_metadata %>%
 
 ################################################################################
 ## Mean genome sizes per taxonomic rank
-genome_size_domain <- gtdb_combined_metadata %>%
+# Note for family we take the mean of the genus means, not the mean of the
+# species that belong to a family. This helps normalise for species that are
+# overabundant in the database and that would otherwise inflate estimates.
+
+genome_size_by_rank <- gtdb_combined_metadata %>%
+  group_by(domain, phylum, class, order, family, genus, species) %>%
+  summarise(species_mean = mean(genome_size)) %>%
+  ungroup()
+
+species_means <- genome_size_by_rank %>%
+  group_by(domain, phylum, class, order, family, genus, species) %>%
+  summarise(genome_size = mean(species_mean)) %>%
+  ungroup() %>%
+  select(species, genome_size) %>%
+  rename("rank" = species)
+
+genus_means <- genome_size_by_rank %>%
+  group_by(domain, phylum, class, order, family, genus) %>%
+  summarise(genome_size = mean(species_mean)) %>%
+  ungroup() %>%
+  select(genus, genome_size) %>%
+  rename("rank" = genus)
+
+genome_size_genus_means <- genome_size_by_rank %>%
+  group_by(domain, phylum, class, order, family, genus) %>%
+  summarise(genome_size = mean(species_mean)) %>%
+  ungroup() 
+
+family_means <- genome_size_genus_means %>%
+  group_by(domain, phylum, class, order, family) %>%
+  summarise(genome_size = mean(genome_size)) %>%
+  ungroup() %>%
+  select(family, genome_size) %>%
+  rename("rank" = family)
+
+order_means <- genome_size_genus_means %>%
+  group_by(domain, phylum, class, order) %>%
+  summarise(genome_size = mean(genome_size)) %>%
+  ungroup() %>%
+  select(order, genome_size) %>%
+  rename("rank" = order)
+
+class_means <- genome_size_genus_means %>%
+  group_by(domain, phylum, class) %>%
+  summarise(genome_size = mean(genome_size)) %>%
+  ungroup() %>%
+  select(class, genome_size) %>%
+  rename("rank" = class)
+
+phylum_means <- genome_size_genus_means %>%
+  group_by(domain, phylum) %>%
+  summarise(genome_size = mean(genome_size)) %>%
+  ungroup() %>%
+  select(phylum, genome_size) %>%
+  rename("rank" = phylum)
+
+domain_means <- genome_size_genus_means %>%
   group_by(domain) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "domain") %>%
-  rename("name" = domain)
+  summarise(genome_size = mean(genome_size)) %>%
+  ungroup() %>%
+  select(domain, genome_size) %>%
+  rename("rank" = domain)
 
-genome_size_phylum <- gtdb_combined_metadata %>%
-  group_by(phylum) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "phylum") %>%
-  rename("name" = phylum)
+#Combine
+full_genome_size_table <- rbind(species_means, genus_means, family_means,
+                                order_means, class_means, phylum_means,
+                                domain_means)
 
-genome_size_class <- gtdb_combined_metadata %>%
-  group_by(class) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "class") %>%
-  rename("name" = class)
-
-genome_size_order <- gtdb_combined_metadata %>%
-  group_by(order) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "order") %>%
-  rename("name" = order)
-
-genome_size_family <- gtdb_combined_metadata %>%
-  group_by(family) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "family") %>%
-  rename("name" = family)
-
-genome_size_genus <- gtdb_combined_metadata %>%
-  group_by(genus) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "genus") %>%
-  rename("name" = genus)
-
-genome_size_species <- gtdb_combined_metadata %>%
-  group_by(species) %>%
-  summarise(mean = mean(genome_size)) %>%
-  mutate(rank = "species") %>%
-  rename("name" = species)
-
-full_genome_size_table <- rbind(genome_size_domain, genome_size_phylum,
-                                genome_size_class, genome_size_order,
-                                genome_size_family, genome_size_genus,
-                                genome_size_species)
-
-write_tsv(full_genome_size_table, "gtdb_mean_genome_sizes.tsv")
+write_tsv(full_genome_size_table, "3_Outputs/gtdb_mean_genome_sizes.tsv")
