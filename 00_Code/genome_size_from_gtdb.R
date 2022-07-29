@@ -130,4 +130,4 @@ full_genome_size_table <- rbind(species_means, genus_means, family_means,
                                 order_means, class_means, phylum_means,
                                 domain_means)
 
-write_tsv(full_genome_size_table, "gtdb_mean_genome_sizes.tsv")
+write_tsv(full_genome_size_table, "3_Outputs/gtdb_mean_genome_sizes.tsv")
