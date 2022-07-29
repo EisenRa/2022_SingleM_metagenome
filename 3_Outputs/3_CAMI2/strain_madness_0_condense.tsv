@@ -1,0 +1,68 @@
+sample	coverage	taxonomy
+strain_madness_0_R1	0.75	Root; d__Archaea
+strain_madness_0_R1	0.05	Root; d__Archaea; p__Thermoproteota
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Firmicutes
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria
+strain_madness_0_R1	0.05	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia
+strain_madness_0_R1	2.74	Root; d__Bacteria; p__Firmicutes; c__Bacilli
+strain_madness_0_R1	2.9	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+strain_madness_0_R1	10.12	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+strain_madness_0_R1	0.63	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales
+strain_madness_0_R1	27.9	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales
+strain_madness_0_R1	2.5	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+strain_madness_0_R1	8.93	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae
+strain_madness_0_R1	13.25	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae
+strain_madness_0_R1	0.85	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae
+strain_madness_0_R1	2.73	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Salinicoccaceae
+strain_madness_0_R1	199.86	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae
+strain_madness_0_R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pasteurellaceae
+strain_madness_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae
+strain_madness_0_R1	2.56	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae
+strain_madness_0_R1	131.91	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus
+strain_madness_0_R1	14.22	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_B
+strain_madness_0_R1	0.17	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_C
+strain_madness_0_R1	2.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Ligilactobacillus
+strain_madness_0_R1	17.92	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus
+strain_madness_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Erwinia
+strain_madness_0_R1	1.48	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea
+strain_madness_0_R1	0.29	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Arsenophonus
+strain_madness_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Kosakonia
+strain_madness_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Providencia
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Kluyvera
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Xenorhabdus
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Lelliottia
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Brenneria
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__LSJC7
+strain_madness_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Serratia
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Buchnera
+strain_madness_0_R1	14.82	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__SoEE
+strain_madness_0_R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter
+strain_madness_0_R1	1.42	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Phytobacter
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter_A
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Scandinavium
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Enterobacter
+strain_madness_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio
+strain_madness_0_R1	1.99	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides
+strain_madness_0_R1	0.63	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Parabacteroides
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AR
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_B; s__Enterococcus_B faecium
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus faecalis
+strain_madness_0_R1	0.57	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus intestinalis
+strain_madness_0_R1	3.53	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus aureus
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Erwinia; s__Erwinia oleae
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea; s__Pantoea sp009829915
+strain_madness_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea; s__Pantoea sp001485295
+strain_madness_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea; s__Pantoea persica
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__BIGb0383; s__BIGb0383 sp003751845
+strain_madness_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__GCF-000287335; s__GCF-000287335 sp000287335
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pluralibacter; s__Pluralibacter gergoviae
+strain_madness_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Parabacteroides; s__Parabacteroides goldsteinii

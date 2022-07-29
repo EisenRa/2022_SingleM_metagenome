@@ -1,0 +1,546 @@
+sample	coverage	taxonomy
+marine_0_R1	1.75	Root; d__Archaea
+marine_0_R1	4.29	Root; d__Bacteria
+marine_0_R1	2.88	Root; d__Archaea; p__Thermoproteota
+marine_0_R1	0.63	Root; d__Archaea; p__Methanobacteriota
+marine_0_R1	0.07	Root; d__Archaea; p__Halobacteriota
+marine_0_R1	0.11	Root; d__Archaea; p__Thermoplasmatota
+marine_0_R1	1.07	Root; d__Bacteria; p__Proteobacteria
+marine_0_R1	0.19	Root; d__Bacteria; p__Actinobacteriota
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes
+marine_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota
+marine_0_R1	0.23	Root; d__Bacteria; p__Campylobacterota
+marine_0_R1	0.27	Root; d__Bacteria; p__Firmicutes_A
+marine_0_R1	0.06	Root; d__Bacteria; p__Cyanobacteria
+marine_0_R1	0.34	Root; d__Bacteria; p__Desulfobacterota
+marine_0_R1	0.23	Root; d__Bacteria; p__Planctomycetota
+marine_0_R1	0.11	Root; d__Bacteria; p__Aquificota
+marine_0_R1	0.11	Root; d__Bacteria; p__Firmicutes_E
+marine_0_R1	0.11	Root; d__Bacteria; p__Bdellovibrionota
+marine_0_R1	1.59	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia
+marine_0_R1	0.53	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria
+marine_0_R1	0.17	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia
+marine_0_R1	0.42	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata
+marine_0_R1	0.67	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia
+marine_0_R1	0.05	Root; d__Archaea; p__Iainarchaeota; c__Iainarchaeia
+marine_0_R1	0.05	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia
+marine_0_R1	10.41	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+marine_0_R1	3.58	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+marine_0_R1	1.81	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia
+marine_0_R1	2.85	Root; d__Bacteria; p__Firmicutes; c__Bacilli
+marine_0_R1	0.62	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia
+marine_0_R1	0.28	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria
+marine_0_R1	0.46	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia
+marine_0_R1	0.57	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia
+marine_0_R1	1.17	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales
+marine_0_R1	0.05	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Thermoproteales
+marine_0_R1	0.11	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales
+marine_0_R1	0.53	Root; d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales
+marine_0_R1	0.59	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales
+marine_0_R1	0.05	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Aciduliprofundales
+marine_0_R1	0.05	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Woesearchaeales
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales
+marine_0_R1	19.29	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales
+marine_0_R1	1.19	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales
+marine_0_R1	7.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales
+marine_0_R1	0.85	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales
+marine_0_R1	0.8	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiohalobacterales
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiohalomonadales_A
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales
+marine_0_R1	0.46	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Pelagibacterales
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Magnetococcia; o__Magnetococcales
+marine_0_R1	0.11	Root; d__Bacteria; p__Deinococcota; c__Deinococci; o__Deinococcales
+marine_0_R1	0.91	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales
+marine_0_R1	1.64	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales
+marine_0_R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales
+marine_0_R1	0.74	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_D
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales
+marine_0_R1	0.4	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B
+marine_0_R1	0.8	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales
+marine_0_R1	0.8	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales
+marine_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales
+marine_0_R1	0.68	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales
+marine_0_R1	0.17	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales
+marine_0_R1	0.57	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales
+marine_0_R1	0.17	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales
+marine_0_R1	0.34	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales
+marine_0_R1	0.11	Root; d__Bacteria; p__Desulfobacterota_F; c__Desulfuromonadia; o__Desulfuromonadales
+marine_0_R1	9.32	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Pyrodictiaceae
+marine_0_R1	0.11	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Ignicoccaceae
+marine_0_R1	0.05	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Acidilobaceae
+marine_0_R1	0.21	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Desulfurococcaceae
+marine_0_R1	0.53	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae
+marine_0_R1	3.74	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae
+marine_0_R1	0.27	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanococcaceae
+marine_0_R1	0.33	Root; d__Archaea; p__Halobacteriota; c__Archaeoglobi; o__Archaeoglobales; f__Archaeoglobaceae
+marine_0_R1	0.42	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae
+marine_0_R1	0.37	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae
+marine_0_R1	0.37	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloarculaceae
+marine_0_R1	0.05	Root; d__Archaea; p__Nanohaloarchaeota; c__Nanosalinia; o__Nanosalinales; f__Nanosalinaceae
+marine_0_R1	3.36	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae
+marine_0_R1	41.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae
+marine_0_R1	28.61	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae
+marine_0_R1	1.93	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Shewanellaceae
+marine_0_R1	3.19	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae
+marine_0_R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Aeromonadaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Kangiellaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Celerinatantimonadaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pasteurellaceae
+marine_0_R1	2.33	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae
+marine_0_R1	1.59	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Methylophagaceae
+marine_0_R1	1.66	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae
+marine_0_R1	1.71	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae
+marine_0_R1	2.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Saccharospirillaceae
+marine_0_R1	2.79	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Nitrincolaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Alcanivoracaceae
+marine_0_R1	1.19	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Spongiibacteraceae
+marine_0_R1	0.56	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halieaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__HTCC2089
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae
+marine_0_R1	2.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae
+marine_0_R1	0.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Woeseiales; f__Woeseiaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiomicrospirales; f__Thiomicrospiraceae
+marine_0_R1	7.79	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Thalassobaculales; f__Thalassobaculaceae
+marine_0_R1	11.55	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Parvularculaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A; f__Rhizobiaceae_A
+marine_0_R1	1.93	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae
+marine_0_R1	4.89	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae
+marine_0_R1	1.25	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae
+marine_0_R1	1.95	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae
+marine_0_R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Micrococcaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae
+marine_0_R1	0.28	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Cellulomonadaceae
+marine_0_R1	1.7	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales; f__Streptomycetaceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptosporangiales; f__Streptosporangiaceae
+marine_0_R1	2.5	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae
+marine_0_R1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_A; f__Planococcaceae
+marine_0_R1	0.17	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_D; f__Amphibacillaceae
+marine_0_R1	1.02	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Anoxybacillaceae
+marine_0_R1	0.57	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B; f__DSM-18226
+marine_0_R1	0.57	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae
+marine_0_R1	12.58	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales; f__Salinibacteraceae
+marine_0_R1	0.85	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae
+marine_0_R1	3.07	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurovaceae
+marine_0_R1	0.46	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Nitratiruptoraceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurimonadaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Campylobacteraceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Campylobacterota; c__Desulfurellia; o__Desulfurellales; f__Hippeaceae
+marine_0_R1	0.97	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Oscillospirales; f__Oscillospiraceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales; f__DSM-8532
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes_A; c__Thermoanaerobacteria; o__Thermoanaerobacterales; f__Thermoanaerobacteraceae
+marine_0_R1	8.76	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae
+marine_0_R1	0.28	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcystaceae
+marine_0_R1	0.34	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Thermotogaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Fervidobacteriaceae
+marine_0_R1	0.68	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae
+marine_0_R1	0.4	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfococcaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfobacteraceae
+marine_0_R1	0.51	Root; d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Desulfobacterota_F; c__Desulfuromonadia; o__Desulfuromonadales; f__Syntrophotaleaceae
+marine_0_R1	0.51	Root; d__Bacteria; p__Aquificota; c__Desulfurobacteriia; o__Desulfurobacteriales; f__Desulfurobacteriaceae
+marine_0_R1	0.11	Root; d__Bacteria; p__Aquificota; c__Aquificae; o__Hydrogenothermales; f__Hydrogenothermaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes_E; c__Sulfobacillia; o__Sulfobacillales; f__Sulfobacillaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales; f__Bdellovibrionaceae
+marine_0_R1	0.06	Root; d__Bacteria; p__Bdellovibrionota; c__Bacteriovoracia; o__Bacteriovoracales; f__Bacteriovoracaceae
+marine_0_R1	0.11	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Pyrodictiaceae; g__Pyrodictium
+marine_0_R1	0.48	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Acidilobaceae; g__Aeropyrum
+marine_0_R1	0.32	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Desulfurococcaceae; g__Staphylothermus
+marine_0_R1	0.11	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Thermoproteales; f__Thermoproteaceae; g__Pyrobaculum
+marine_0_R1	3.19	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Nitrosopumilus
+marine_0_R1	3.72	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Palaeococcus
+marine_0_R1	7.39	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus
+marine_0_R1	2.61	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Pyrococcus
+marine_0_R1	0.05	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus_A
+marine_0_R1	0.11	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus_B
+marine_0_R1	0.27	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanococcaceae; g__Methanococcus
+marine_0_R1	0.37	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanococcaceae; g__Methanotorris
+marine_0_R1	1.28	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanocaldococcaceae; g__Methanocaldococcus
+marine_0_R1	0.9	Root; d__Archaea; p__Halobacteriota; c__Archaeoglobi; o__Archaeoglobales; f__Archaeoglobaceae; g__Archaeoglobus
+marine_0_R1	4.1	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina
+marine_0_R1	0.27	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__MTP4
+marine_0_R1	3.94	Root; d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoculleaceae; g__Methanoculleus
+marine_0_R1	0.48	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae; g__Haloferax
+marine_0_R1	0.05	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae; g__Halolamina
+marine_0_R1	0.16	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae; g__Haloquadratum
+marine_0_R1	0.69	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloarculaceae; g__Halorhabdus
+marine_0_R1	0.27	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Aciduliprofundales; f__Aciduliprofundaceae; g__Aciduliprofundum
+marine_0_R1	0.05	Root; d__Archaea; p__Nanohaloarchaeota; c__Nanosalinia; o__Nanosalinales; f__Nanosalinaceae; g__SG9
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae; g__Thiocystis
+marine_0_R1	0.91	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__Thiolapillus
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__MONJU
+marine_0_R1	78.24	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio
+marine_0_R1	25.43	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Aliivibrio
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Enterovibrio
+marine_0_R1	1.48	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Photobacterium
+marine_0_R1	3.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Pseudoalteromonas
+marine_0_R1	16.72	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Alteromonas
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Idiomarina
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Thalassotalea_A
+marine_0_R1	1.99	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Colwellia
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Cognaticolwellia
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Glaciecola
+marine_0_R1	0.85	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Paraglaciecola
+marine_0_R1	21.67	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Shewanellaceae; g__Shewanella
+marine_0_R1	8.99	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Moritellaceae; g__Moritella
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Edwardsiella
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Serratia
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea
+marine_0_R1	4.84	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Aeromonadaceae; g__Aeromonas
+marine_0_R1	2.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Kangiellaceae; g__Kangiella
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Psychromonadaceae; g__Psychromonas
+marine_0_R1	53.69	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter
+marine_0_R1	55.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae; g__Nitrosococcus
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Methylophagaceae; g__Methylophaga
+marine_0_R1	5.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae; g__Halomonas
+marine_0_R1	12.69	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Marinomonadaceae; g__Marinomonas
+marine_0_R1	16.27	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Psychrobacter
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Saccharospirillaceae; g__Oleispira
+marine_0_R1	1.54	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas_E
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas_A
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Nitrincolaceae; g__Marinobacterium_A
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Alcanivoracaceae; g__Alcanivorax_A
+marine_0_R1	3.53	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae; g__Marinobacter
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae; g__Hahella
+marine_0_R1	1.14	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Teredinibacter
+marine_0_R1	4.78	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Cycloclasticaceae; g__Cycloclasticus
+marine_0_R1	1.88	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae; g__Methylomonas
+marine_0_R1	3.41	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Piscirickettsiales; f__Piscirickettsiaceae; g__Piscirickettsia
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Pusillimonas_C
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Hydrogenophaga
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rhodoferax
+marine_0_R1	3.87	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__BACL14
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Francisellales; f__Francisellaceae; g__Francisella
+marine_0_R1	1.37	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Luteimonas
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Woeseiales; f__Woeseiaceae; g__Woeseia
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__PS1; f__Thioglobaceae; g__Thioglobus
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiomicrospirales; f__Thiomicrospiraceae; g__Hydrogenovibrio
+marine_0_R1	3.07	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Erythrobacter
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Alteraurantiacibacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Croceicoccus
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Alteriqipengyuania
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium
+marine_0_R1	3.87	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Thalassobaculales; f__Thalassobaculaceae; g__Endolissoclinum
+marine_0_R1	1.48	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Tistrellales; f__Tistrellaceae; g__Tistrella
+marine_0_R1	1.08	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Cereibacter_A
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Octadecabacter
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Salipiger
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseobacter
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Planktomarina
+marine_0_R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Phaeobacter
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Leisingera
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Actibacterium_A
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Celeribacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Sulfitobacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Marivivens
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Hyphomonas
+marine_0_R1	0.46	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Henriciella
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Hirschia
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Maricaulaceae; g__Maricaulis
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Parvularculaceae; g__Parvularcula
+marine_0_R1	0.85	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas
+marine_0_R1	1.31	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Hyphomicrobium
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Filomicrobium
+marine_0_R1	1.48	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae; g__Methyloceanibacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Hoeflea
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Stappiaceae; g__Stappia
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Pelagibacterales; f__Pelagibacteraceae; g__Pelagibacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Thalassospiraceae; g__Thalassospira
+marine_0_R1	1.93	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Rhodococcus_B
+marine_0_R1	1.02	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Corynebacterium
+marine_0_R1	0.46	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Mycobacterium
+marine_0_R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Rhodococcus
+marine_0_R1	8.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Micromonospora
+marine_0_R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae; g__Dermacoccus
+marine_0_R1	0.8	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae; g__Kytococcus
+marine_0_R1	0.34	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Aquiluna
+marine_0_R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Clavibacter
+marine_0_R1	1.19	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Microbacterium
+marine_0_R1	0.51	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Rhodoglobus
+marine_0_R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Agrococcus
+marine_0_R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Plantibacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Micrococcaceae; g__Micrococcus
+marine_0_R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Micrococcaceae; g__Kocuria
+marine_0_R1	0.28	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Arcanobacterium
+marine_0_R1	4.55	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales; f__Streptomycetaceae; g__Streptomyces
+marine_0_R1	0.34	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptosporangiales; f__Streptosporangiaceae; g__Nocardiopsis
+marine_0_R1	2.16	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__Ilumatobacter_A
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Leuconostoc
+marine_0_R1	1.02	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+marine_0_R1	0.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Carnobacterium
+marine_0_R1	0.91	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_A; f__Planococcaceae; g__Planococcus
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_D; f__Amphibacillaceae; g__Oceanobacillus
+marine_0_R1	9.33	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus
+marine_0_R1	2.67	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus
+marine_0_R1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Anoxybacillaceae; g__Geobacillus
+marine_0_R1	1.19	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae; g__Paenibacillus
+marine_0_R1	0.8	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Nonlabens
+marine_0_R1	0.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Gramella
+marine_0_R1	4.21	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Tenacibaculum
+marine_0_R1	0.34	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium
+marine_0_R1	0.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Bizionia
+marine_0_R1	0.51	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Polaribacter
+marine_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa
+marine_0_R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Wenyingzhuangia
+marine_0_R1	0.97	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Lacinutrix
+marine_0_R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Zunongwangia
+marine_0_R1	2.5	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Flammeovirgaceae; g__Flammeovirga
+marine_0_R1	2.56	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Marivirga
+marine_0_R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Echinicola
+marine_0_R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Bernardetiaceae; g__Bernardetia
+marine_0_R1	0.46	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__Saprospira
+marine_0_R1	0.63	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales; f__Rhodothermaceae; g__Rhodothermus
+marine_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales; f__Salinibacteraceae; g__Salinibacter
+marine_0_R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae; g__Chlorobium_A
+marine_0_R1	0.74	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae; g__Chlorobium
+marine_0_R1	27.14	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurovaceae; g__Sulfurovum
+marine_0_R1	0.06	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Nitratiruptoraceae; g__Nitratiruptor
+marine_0_R1	0.28	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurimonadaceae; g__Sulfurimonas
+marine_0_R1	0.17	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter_D
+marine_0_R1	0.11	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Nautiliales; f__Nautiliaceae; g__Nautilia
+marine_0_R1	0.23	Root; d__Bacteria; p__Campylobacterota; c__Desulfurellia; o__Desulfurellales; f__Hippeaceae; g__Hippea
+marine_0_R1	8.31	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Oscillospirales; f__Oscillospiraceae; g__Oscillibacter
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales; f__Acetivibrionaceae; g__Hungateiclostridium
+marine_0_R1	0.06	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales; f__DSM-8532; g__Thermoclostridium
+marine_0_R1	0.17	Root; d__Bacteria; p__Firmicutes_A; c__Thermoanaerobacteria; o__Thermoanaerobacterales; f__Thermoanaerobacteraceae; g__Thermoanaerobacter
+marine_0_R1	5.18	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_C
+marine_0_R1	6.66	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_A
+marine_0_R1	1.93	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_B
+marine_0_R1	0.85	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_E
+marine_0_R1	1.37	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_C
+marine_0_R1	0.57	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcystaceae; g__Atelocyanobacterium
+marine_0_R1	0.17	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Rivularia
+marine_0_R1	2.45	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Thermotogaceae; g__Thermotoga
+marine_0_R1	0.06	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Fervidobacteriaceae; g__Thermosipho
+marine_0_R1	0.23	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Petrotogales; f__Petrotogaceae; g__Marinitoga
+marine_0_R1	1.19	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Maridesulfovibrio
+marine_0_R1	1.42	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Pseudodesulfovibrio
+marine_0_R1	0.11	Root; d__Bacteria; p__Desulfobacterota_F; c__Desulfuromonadia; o__Desulfuromonadales; f__Syntrophotaleaceae; g__Syntrophotalea
+marine_0_R1	0.23	Root; d__Bacteria; p__Firmicutes_E; c__Thermaerobacteria; o__Thermaerobacterales; f__Thermaerobacteraceae; g__Thermaerobacter
+marine_0_R1	1.25	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales; f__Bdellovibrionaceae; g__Bdellovibrio
+marine_0_R1	0.34	Root; d__Bacteria; p__Bdellovibrionota; c__Bacteriovoracia; o__Bacteriovoracales; f__Bacteriovoracaceae; g__Halobacteriovorax
+marine_0_R1	71.22	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Pyrodictiaceae; g__Hyperthermus; s__Hyperthermus butylicus
+marine_0_R1	2.35	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Ignicoccaceae; g__Ignicoccus; s__Ignicoccus islandicus
+marine_0_R1	0.96	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Acidilobaceae; g__Aeropyrum; s__Aeropyrum camini
+marine_0_R1	0.69	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales; f__Desulfurococcaceae; g__Staphylothermus; s__Staphylothermus marinus
+marine_0_R1	0.37	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Thermoproteales; f__Thermoproteaceae; g__Pyrobaculum; s__Pyrobaculum aerophilum
+marine_0_R1	1.38	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Nitrosopumilus; s__Nitrosopumilus sediminis
+marine_0_R1	0.32	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Nitrosopumilus; s__Nitrosopumilus adriaticus
+marine_0_R1	0.11	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Cenarchaeum; s__Cenarchaeum symbiosum
+marine_0_R1	34.45	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Palaeococcus; s__Palaeococcus pacificus
+marine_0_R1	0.26	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus; s__Thermococcus gammatolerans
+marine_0_R1	0.32	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus; s__Thermococcus sp000151205
+marine_0_R1	0.11	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus; s__Thermococcus eurythermalis
+marine_0_R1	0.43	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Pyrococcus; s__Pyrococcus furiosus
+marine_0_R1	0.11	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Pyrococcus; s__Pyrococcus yayanosii
+marine_0_R1	0.64	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Pyrococcus; s__Pyrococcus sp000211475
+marine_0_R1	0.27	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Pyrococcus; s__Pyrococcus abyssi
+marine_0_R1	0.05	Root; d__Archaea; p__Methanobacteriota; c__Thermococci; o__Thermococcales; f__Thermococcaceae; g__Thermococcus_B; s__Thermococcus_B paralvinellae
+marine_0_R1	0.16	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanococcaceae; g__Methanococcus; s__Methanococcus maripaludis_A
+marine_0_R1	1.06	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanococcaceae; g__Methanotorris; s__Methanotorris igneus
+marine_0_R1	0.32	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanocaldococcaceae; g__Methanocaldococcus; s__Methanocaldococcus vulcanius
+marine_0_R1	0.16	Root; d__Archaea; p__Methanobacteriota; c__Methanococci; o__Methanococcales; f__Methanocaldococcaceae; g__Methanocaldococcus; s__Methanocaldococcus jannaschii
+marine_0_R1	5.19	Root; d__Archaea; p__Halobacteriota; c__Archaeoglobi; o__Archaeoglobales; f__Archaeoglobaceae; g__Archaeoglobus; s__Archaeoglobus fulgidus
+marine_0_R1	4.47	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina siciliae
+marine_0_R1	0.11	Root; d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__MTP4; s__MTP4 sp000970045
+marine_0_R1	1.17	Root; d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoculleaceae; g__Methanoculleus; s__Methanoculleus marisnigri
+marine_0_R1	0.05	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae; g__Haloferax; s__Haloferax mediterranei
+marine_0_R1	0.05	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloferacaceae; g__Haloquadratum; s__Haloquadratum walsbyi
+marine_0_R1	1.59	Root; d__Archaea; p__Halobacteriota; c__Halobacteria; o__Halobacteriales; f__Haloarculaceae; g__Halorhabdus; s__Halorhabdus tiamatea
+marine_0_R1	1.7	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Aciduliprofundales; f__Aciduliprofundaceae; g__Aciduliprofundum; s__Aciduliprofundum boonei
+marine_0_R1	0.16	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Aciduliprofundales; f__Aciduliprofundaceae; g__Aciduliprofundum; s__Aciduliprofundum sp000327505
+marine_0_R1	3.36	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Nanoarchaeales; f__Nanoarchaeaceae; g__Nanoarchaeum; s__Nanoarchaeum equitans
+marine_0_R1	2.07	Root; d__Archaea; p__Nanohaloarchaeota; c__Nanosalinia; o__Nanosalinales; f__Nanosalinaceae; g__SG9; s__SG9 sp001761425
+marine_0_R1	10.01	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae; g__Thioflavicoccus; s__Thioflavicoccus mobilis
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae; g__Thiocystis; s__Thiocystis violascens
+marine_0_R1	1.82	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__Thiolapillus; s__Thiolapillus brandeum
+marine_0_R1	1.08	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__MONJU; s__MONJU sp000801295
+marine_0_R1	1.71	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio; s__Vibrio ordalii
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio; s__Vibrio natriegens
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio; s__Vibrio nigripulchritudo
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio; s__Vibrio sp002342735
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Aliivibrio; s__Aliivibrio wodanis
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Aliivibrio; s__Aliivibrio sp900312675
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Aliivibrio; s__Aliivibrio salmonicida_A
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Pseudoalteromonas; s__Pseudoalteromonas nigrifaciens
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Alteromonas; s__Alteromonas hispanica
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Alteromonas; s__Alteromonas mediterranea
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Thalassotalea_A; s__Thalassotalea_A crassostreae
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Colwellia; s__Colwellia psychrerythraea_A
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Glaciecola; s__Glaciecola nitratireducens
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Paraglaciecola; s__Paraglaciecola psychrophila
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Shewanellaceae; g__Shewanella; s__Shewanella halifaxensis
+marine_0_R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Shewanellaceae; g__Shewanella; s__Shewanella hanedai
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Shewanellaceae; g__Shewanella; s__Shewanella piezotolerans
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Moritellaceae; g__Moritella; s__Moritella viscosa
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Aeromonadaceae; g__Aeromonas; s__Aeromonas salmonicida
+marine_0_R1	0.45	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Kangiellaceae; g__Kangiella; s__Kangiella geojedonensis
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Kangiellaceae; g__Kangiella; s__Kangiella sediminilitoris
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Kangiellaceae; g__Kangiella; s__Kangiella koreensis
+marine_0_R1	33.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter; s__Spiribacter salinus
+marine_0_R1	55.29	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter; s__Spiribacter curvatus
+marine_0_R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter; s__Spiribacter vilamensis
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter; s__Spiribacter roseus
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__Spiribacter; s__Spiribacter sp009676705
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Nitrococcaceae; g__C176; s__C176 sp009649225
+marine_0_R1	84.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae; g__Nitrosococcus; s__Nitrosococcus halophilus
+marine_0_R1	31.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae; g__Nitrosococcus; s__Nitrosococcus oceani
+marine_0_R1	0.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae; g__Nitrosococcus; s__Nitrosococcus watsonii
+marine_0_R1	0.97	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Nitrosococcaceae; g__Nitrosococcus; s__Nitrosococcus wardiae
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Methylophagaceae; g__Methylophaga; s__Methylophaga frappieri
+marine_0_R1	1.31	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Marinomonadaceae; g__Marinomonas; s__Marinomonas mediterranea
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Marinomonadaceae; g__Marinomonas; s__Marinomonas posidonica
+marine_0_R1	7.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Saccharospirillaceae; g__Thalassolituus; s__Thalassolituus oleivorans
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Saccharospirillaceae; g__Oleispira; s__Oleispira antarctica
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas_A; s__Pseudomonas_A balearica
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Nitrincolaceae; g__Marinobacterium_A; s__Marinobacterium_A aestuarii
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae; g__Marinobacter; s__Marinobacter hydrocarbonoclasticus
+marine_0_R1	1.65	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Spongiibacteraceae; g__IMCC21906; s__IMCC21906 sp001010805
+marine_0_R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Teredinibacter; s__Teredinibacter turnerae_B
+marine_0_R1	7.0	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Cycloclasticaceae; g__Cycloclasticus; s__Cycloclasticus pugetii
+marine_0_R1	2.9	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae; g__Methylomonas; s__Methylomonas methanica_B
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae; g__Methylomonas; s__Methylomonas lenta
+marine_0_R1	0.8	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Piscirickettsiales; f__Piscirickettsiaceae; g__Piscirickettsia; s__Piscirickettsia salmonis
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Piscirickettsiales; f__Piscirickettsiaceae; g__Piscirickettsia; s__Piscirickettsia sp001644975
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Pusillimonas_C; s__Pusillimonas_C sp000209655
+marine_0_R1	0.8	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Hydrogenophaga; s__Hydrogenophaga crassostreae
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rhodoferax; s__Rhodoferax ferrireducens
+marine_0_R1	0.74	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__BACL14; s__BACL14 sp001044335
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Francisellales; f__Francisellaceae; g__Francisella; s__Francisella orientalis
+marine_0_R1	3.07	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Luteimonas; s__Luteimonas sp001717465
+marine_0_R1	0.97	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Woeseiales; f__Woeseiaceae; g__Woeseia; s__Woeseia oceani
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiomicrospirales; f__Thiomicrospiraceae; g__Hydrogenovibrio; s__Hydrogenovibrio crunogenus_A
+marine_0_R1	4.44	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Erythrobacter; s__Erythrobacter litoralis
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Alteraurantiacibacter; s__Alteraurantiacibacter atlanticus
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Alteraurantiacibacter; s__Alteraurantiacibacter gangjinensis
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Altererythrobacter_D; s__Altererythrobacter_D litoralis_A
+marine_0_R1	24.0	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Thalassobaculales; f__Thalassobaculaceae; g__Endolissoclinum; s__Endolissoclinum faulkneri
+marine_0_R1	15.19	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Thalassobaculales; f__Thalassobaculaceae; g__Endolissoclinum; s__Endolissoclinum faulkneri_A
+marine_0_R1	6.77	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Tistrellales; f__Tistrellaceae; g__Tistrella; s__Tistrella mobilis
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Octadecabacter; s__Octadecabacter antarcticus
+marine_0_R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Salipiger; s__Salipiger sp001687105
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseobacter; s__Roseobacter denitrificans
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Planktomarina; s__Planktomarina temperata
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Rhodovulum; s__Rhodovulum sulfidophilum
+marine_0_R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseicyclus; s__Roseicyclus elongatus
+marine_0_R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Actibacterium_A; s__Actibacterium_A naphthalenivorans
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Celeribacter; s__Celeribacter marinus
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Pseudophaeobacter_A; s__Pseudophaeobacter_A gallaeciensis_A
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Hyphomonas; s__Hyphomonas neptunium
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Henriciella; s__Henriciella sp001854405
+marine_0_R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae; g__Hirschia; s__Hirschia baltica
+marine_0_R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Maricaulaceae; g__Maricaulis; s__Maricaulis maris_A
+marine_0_R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Parvularculaceae; g__Parvularcula; s__Parvularcula bermudensis
+marine_0_R1	6.14	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Hyphomicrobium; s__Hyphomicrobium nitrativorans
+marine_0_R1	1.08	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Filomicrobium; s__Filomicrobium insigne
+marine_0_R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae; g__Methyloceanibacter; s__Methyloceanibacter caenitepidi
+marine_0_R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Mesorhizobium_E; s__Mesorhizobium_E oceanicum
+marine_0_R1	1.48	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Magnetospiraceae; g__Magnetospira; s__Magnetospira sp000968135
+marine_0_R1	5.92	Root; d__Bacteria; p__Proteobacteria; c__Magnetococcia; o__Magnetococcales; f__Magnetococcaceae; g__Magnetococcus; s__Magnetococcus marinus
+marine_0_R1	10.52	Root; d__Bacteria; p__Deinococcota; c__Deinococci; o__Deinococcales; f__Marinithermaceae; g__Marinithermus; s__Marinithermus hydrothermalis
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Rhodococcus_B; s__Rhodococcus_B sp000954115
+marine_0_R1	0.8	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Corynebacterium; s__Corynebacterium phocae
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Corynebacterium; s__Corynebacterium sphenisci
+marine_0_R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Mycobacterium; s__Mycobacterium chubuense_A
+marine_0_R1	0.51	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Micromonospora; s__Micromonospora maris
+marine_0_R1	0.4	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Micromonospora; s__Micromonospora tropica
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Micromonospora; s__Micromonospora arenicola
+marine_0_R1	0.51	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae; g__Dermacoccus; s__Dermacoccus nishinomiyaensis
+marine_0_R1	2.04	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae; g__Kytococcus; s__Kytococcus sedentarius
+marine_0_R1	1.42	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Aquiluna; s__Aquiluna sp900100865
+marine_0_R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Micrococcaceae; g__Micrococcus; s__Micrococcus luteus
+marine_0_R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Arcanobacterium; s__Arcanobacterium phocae
+marine_0_R1	0.45	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Cellulomonadaceae; g__Paraoerskovia; s__Paraoerskovia marina
+marine_0_R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales; f__Streptomycetaceae; g__Streptomyces; s__Streptomyces olivaceus
+marine_0_R1	13.82	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__Ilumatobacter_A; s__Ilumatobacter_A coccineus
+marine_0_R1	0.34	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus iniae
+marine_0_R1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_D; f__Amphibacillaceae; g__Oceanobacillus; s__Oceanobacillus iheyensis
+marine_0_R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus warneri
+marine_0_R1	0.63	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B; f__DSM-18226; g__Bacillus_AB; s__Bacillus_AB infantis
+marine_0_R1	0.51	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Izemoplasmatales; f__Izemoplasmataceae; g__Izemoplasma_B; s__Izemoplasma_B sp000755705
+marine_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Nonlabens; s__Nonlabens dokdonensis
+marine_0_R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Gramella; s__Gramella echinicola
+marine_0_R1	0.8	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Tenacibaculum; s__Tenacibaculum dicentrarchi
+marine_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Bizionia; s__Bizionia saleffrena
+marine_0_R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Bizionia; s__Bizionia paragorgiae
+marine_0_R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Polaribacter; s__Polaribacter sp900106075
+marine_0_R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa; s__Formosa haliotis
+marine_0_R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Lacinutrix; s__Lacinutrix sp000211855
+marine_0_R1	0.34	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Tenacibaculum_A; s__Tenacibaculum_A todarodis
+marine_0_R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Algibacter_A; s__Algibacter_A alginicilyticus
+marine_0_R1	0.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Flammeovirgaceae; g__Flammeovirga; s__Flammeovirga yaeyamensis
+marine_0_R1	0.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Marivirga; s__Marivirga tractuosa
+marine_0_R1	0.34	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Bernardetiaceae; g__Bernardetia; s__Bernardetia litoralis
+marine_0_R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__Saprospira; s__Saprospira grandis_B
+marine_0_R1	1.42	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales; f__Rhodothermaceae; g__Rhodothermus; s__Rhodothermus marinus
+marine_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota; c__Rhodothermia; o__Rhodothermales; f__Salinibacteraceae; g__Salinibacter; s__Salinibacter ruber
+marine_0_R1	6.77	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae; g__Chlorobium_A; s__Chlorobium_A phaeobacteroides_A
+marine_0_R1	0.28	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae; g__Chlorobium; s__Chlorobium phaeovibrioides
+marine_0_R1	8.65	Root; d__Bacteria; p__Bacteroidota; c__Chlorobia; o__Chlorobiales; f__Chloroherpetonaceae; g__Chloroherpeton; s__Chloroherpeton thalassium
+marine_0_R1	7.22	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurovaceae; g__Sulfurovum; s__Sulfurovum sp000010345
+marine_0_R1	1.08	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Nitratiruptoraceae; g__Nitratiruptor; s__Nitratiruptor sp000010325
+marine_0_R1	0.34	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurimonadaceae; g__Sulfurimonas; s__Sulfurimonas denitrificans
+marine_0_R1	0.45	Root; d__Bacteria; p__Campylobacterota; c__Desulfurellia; o__Desulfurellales; f__Hippeaceae; g__Hippea; s__Hippea maritima
+marine_0_R1	0.51	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__Clostridium botulinum_B
+marine_0_R1	0.46	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Oscillospirales; f__Oscillospiraceae; g__Oscillibacter; s__Oscillibacter valericigenes
+marine_0_R1	0.51	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales; f__Acetivibrionaceae; g__Hungateiclostridium; s__Hungateiclostridium thermocellum
+marine_0_R1	0.8	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Acetivibrionales; f__DSM-8532; g__Thermoclostridium; s__Thermoclostridium stercorarium
+marine_0_R1	0.46	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_C; s__Synechococcus_C sp000063505
+marine_0_R1	0.46	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_C; s__Synechococcus_C sp000014585
+marine_0_R1	0.51	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_A; s__Prochlorococcus_A marinus_Q
+marine_0_R1	0.28	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_A; s__Prochlorococcus_A marinus_P
+marine_0_R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_A; s__Prochlorococcus_A pastoris
+marine_0_R1	0.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_E; s__Synechococcus_E sp000012505
+marine_0_R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_E; s__Synechococcus_E sp000737535
+marine_0_R1	0.85	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Prochlorococcus_C; s__Prochlorococcus_C marinus_B
+marine_0_R1	1.76	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcystaceae; g__Atelocyanobacterium; s__Atelocyanobacterium thalassa
+marine_0_R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Rivularia; s__Rivularia sp000316665
+marine_0_R1	2.67	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Gloeomargaritales; f__Gloeomargaritaceae; g__Gloeomargarita; s__Gloeomargarita lithophora
+marine_0_R1	0.52	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Thermotogaceae; g__Thermotoga; s__Thermotoga maritima
+marine_0_R1	0.11	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Thermotogales; f__Fervidobacteriaceae; g__Thermosipho; s__Thermosipho melanesiensis
+marine_0_R1	1.08	Root; d__Bacteria; p__Thermotogota; c__Thermotogae; o__Petrotogales; f__Petrotogaceae; g__Marinitoga; s__Marinitoga piezophila
+marine_0_R1	0.11	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Maridesulfovibrio; s__Maridesulfovibrio salexigens
+marine_0_R1	0.63	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Maridesulfovibrio; s__Maridesulfovibrio hydrothermalis
+marine_0_R1	1.25	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Pseudodesulfovibrio; s__Pseudodesulfovibrio desulfuricans_A
+marine_0_R1	2.05	Root; d__Bacteria; p__Desulfobacterota; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfocurvibacter; s__Desulfocurvibacter africanus
+marine_0_R1	6.88	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfococcaceae; g__Desulfococcus; s__Desulfococcus multivorans
+marine_0_R1	0.28	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfobacteraceae; g__Desulfobacula; s__Desulfobacula toluolica
+marine_0_R1	2.73	Root; d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Ilyobacter; s__Ilyobacter polytropus
+marine_0_R1	0.68	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae; g__Phycisphaera; s__Phycisphaera mikurensis
+marine_0_R1	0.57	Root; d__Bacteria; p__Desulfobacterota_F; c__Desulfuromonadia; o__Desulfuromonadales; f__Syntrophotaleaceae; g__Syntrophotalea; s__Syntrophotalea acetylenica
+marine_0_R1	1.42	Root; d__Bacteria; p__Aquificota; c__Desulfurobacteriia; o__Desulfurobacteriales; f__Desulfurobacteriaceae; g__Desulfurobacterium; s__Desulfurobacterium thermolithotrophum
+marine_0_R1	0.11	Root; d__Bacteria; p__Aquificota; c__Aquificae; o__Hydrogenothermales; f__Hydrogenothermaceae; g__Persephonella; s__Persephonella marina
+marine_0_R1	2.56	Root; d__Bacteria; p__Firmicutes_E; c__Sulfobacillia; o__Sulfobacillales; f__Sulfobacillaceae; g__Sulfobacillus_A; s__Sulfobacillus_A acidophilus
+marine_0_R1	0.4	Root; d__Bacteria; p__Firmicutes_E; c__Thermaerobacteria; o__Thermaerobacterales; f__Thermaerobacteraceae; g__Thermaerobacter; s__Thermaerobacter marianensis
+marine_0_R1	0.06	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales; f__Bdellovibrionaceae; g__Bdellovibrio; s__Bdellovibrio bacteriovorus
+marine_0_R1	0.46	Root; d__Bacteria; p__Bdellovibrionota; c__Bacteriovoracia; o__Bacteriovoracales; f__Bacteriovoracaceae; g__Halobacteriovorax; s__Halobacteriovorax marinus
