@@ -1,4 +1,5 @@
 .gitignore
+.RData
 .Rproj.user/
 .Rhistory
 .Rprofile

@@ -1,6 +1,6 @@
 ################################################################################
-## Script for getting genome sizes per rank from the GTDB
-## Raphael Eisenhofer June 2022
+## Script for getting genome sizes per rank from the GTDB (r202)
+## Raphael Eisenhofer July 2022
 ################################################################################
 
 ## Load libraries
@@ -9,16 +9,16 @@ library(janitor)
 
 
 ## Download data from GTDB and decompress
-download.file("https://data.gtdb.ecogenomic.org/releases/release207/207.0/ar53_metadata_r207.tar.gz",
-              "0_Database/ar53_metadata_r207.tar.gz")
-download.file("https://data.gtdb.ecogenomic.org/releases/release207/207.0/bac120_metadata_r207.tar.gz",
-              "0_Database/bac120_metadata_r207.tar.gz")
-untar("0_Database/ar53_metadata_r207.tar.gz", exdir = "0_Database/")
-untar("0_Database/bac120_metadata_r207.tar.gz", exdir = "0_Database/")
+download.file("https://data.gtdb.ecogenomic.org/releases/release202/202.0/bac120_metadata_r202.tar.gz", 
+              "0_Database/bac120_metadata_r202.tar.gz")
+download.file("https://data.gtdb.ecogenomic.org/releases/release202/202.0/ar122_metadata_r202.tar.gz", 
+              "0_Database/ar122_metadata_r202.tar.gz")
+untar("0_Database/ar122_metadata_r202.tar.gz", exdir = "0_Database/")
+untar("0_Database/bac120_metadata_r202.tar.gz", exdir = "0_Database/")
 
 ## Import data
-gtdb_bac_metadata <- read_tsv("0_Database/bac120_metadata_r207.tsv")
-gtdb_arc_metadata <- read_tsv("0_Database/ar53_metadata_r207.tsv")
+gtdb_bac_metadata <- read_tsv("0_Database/bac120_metadata_r202.tsv")
+gtdb_arc_metadata <- read_tsv("0_Database/ar122_metadata_r202.tsv")
 
 ## Bind bac/arc metadata, filter by minimnum/max completeness/contamination
 ## Also split out taxonomy strink into columns by taxonomic rank
@@ -28,7 +28,7 @@ gtdb_combined_metadata <- rbind(gtdb_arc_metadata, gtdb_bac_metadata) %>%
   separate(., col = gtdb_taxonomy,
            sep = ";",
            into = c("domain", "phylum", "class", "order", "family", "genus", "species")
-           )
+  )
 
 ################################################################################
 ## Basic stats + plots
@@ -130,4 +130,4 @@ full_genome_size_table <- rbind(species_means, genus_means, family_means,
                                 order_means, class_means, phylum_means,
                                 domain_means)
 
-write_tsv(full_genome_size_table, "3_Outputs/gtdb_r207_mean_genome_sizes.tsv")
+write_tsv(full_genome_size_table, "3_Outputs/gtdb_r202_mean_genome_sizes.tsv")

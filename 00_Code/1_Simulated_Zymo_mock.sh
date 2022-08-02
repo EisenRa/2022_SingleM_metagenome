@@ -35,8 +35,8 @@ sed -i'' 's/BS.pilon.polished.v3.ST170922/Bacillus_subtilis_complete_genome/' 1_
 #https://github.com/merenlab/reads-for-assembly
 #N.B., takes uncompressed fastas as input
 gen-paired-end-reads 00_Code/Simulated_Zymo.ini
-mv 2_Simulated_reads/Simulated_Zymo-R1.fastq 2_Simulated_reads/Simulated_Zymo_1.fastq
-mv 2_Simulated_reads/Simulated_Zymo-R2.fastq 2_Simulated_reads/Simulated_Zymo_2.fastq
+mv 2_Simulated_reads/Simulated_Zymo-R1.fastq 2_Simulated_reads/Simulated_Zymo_R1.fastq
+mv 2_Simulated_reads/Simulated_Zymo-R2.fastq 2_Simulated_reads/Simulated_Zymo_R2.fastq
 
 pigz -p $THREADS 2_Simulated_reads/Simulated_Zymo*.fastq
 
@@ -47,9 +47,14 @@ seqtk sample -s 1337 2_Simulated_reads/Human_reads-R1.fastq.gz 3800000 > 2_Simul
 seqtk sample -s 1337 2_Simulated_reads/Human_reads-R2.fastq.gz 3800000 > 2_Simulated_reads/Human_reads_3-8M_2.fastq
 pigz -p $THREADS 2_Simulated_reads/Human_reads_3-8M*.fastq
 
-cat 2_Simulated_reads/Human_reads_3-8M_1.fastq.gz 2_Simulated_reads/Simulated_Zymo_1.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_1.fastq.gz
-cat 2_Simulated_reads/Human_reads_3-8M_2.fastq.gz 2_Simulated_reads/Simulated_Zymo_2.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_2.fastq.gz
+cat 2_Simulated_reads/Human_reads_3-8M_1.fastq.gz 2_Simulated_reads/Simulated_Zymo_R1.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Homo_R1.fastq.gz
+cat 2_Simulated_reads/Human_reads_3-8M_2.fastq.gz 2_Simulated_reads/Simulated_Zymo_R2.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Homo_R2.fastq.gz
 
+#Create two more metagenomes with spiked in arabidopsis and plasmodium DNA
+cat 2_Simulated_reads/Arabadopsis_reads-R1.fastq.gz 2_Simulated_reads/Simulated_Zymo_R1.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Arabidopsis_R1.fastq.gz
+cat 2_Simulated_reads/Arabadopsis_reads-R2.fastq.gz 2_Simulated_reads/Simulated_Zymo_R2.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Arabidopsis_R2.fastq.gz
+cat 2_Simulated_reads/Plasmodium_reads-R1.fastq.gz 2_Simulated_reads/Simulated_Zymo_R1.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Plasmodium_R1.fastq.gz
+cat 2_Simulated_reads/Plasmodium_reads-R2.fastq.gz 2_Simulated_reads/Simulated_Zymo_R2.fastq.gz > 2_Simulated_reads/Simulated_Zymo_Spiked_Plasmodium_R2.fastq.gz
 
 ### Map simulated reads to reference genomes using Bowtie2
 cat 1_References/ZymoBIOMICS.STD.refseq.v2/Genomes/*.fasta > 1_References/ZymoCatted.fna
@@ -59,14 +64,14 @@ bowtie2-build \
 --threads $THREADS \
 1_References/ZymoCatted.fna.gz 1_References/ZymoCatted.fna.gz
 
-for i in 2_Simulated_reads/Simulated_Zymo*_1.fastq.gz; do
+for i in 2_Simulated_reads/Simulated_Zymo*_R1.fastq.gz; do
   bowtie2 \
           --threads $THREADS \
           -x 1_References/ZymoCatted.fna.gz \
           -1 $i \
-          -2 ${i/_1.fastq/_2.fastq} \
+          -2 ${i/_R1.fastq/_R2.fastq} \
           --seed 1337 \
-          | samtools sort -@ $THREADS -o ${i/_1.fastq.gz/_Bt2.bam} -;
+          | samtools sort -@ $THREADS -o ${i/_R1.fastq.gz/_Bt2.bam} -;
     done
 
 coverm genome \
@@ -78,13 +83,22 @@ coverm genome \
         > 3_Outputs/Simulated_zymo_Bt2_coverM.tsv
 
 ### Run SingleM pipe on the simulated reads
-for i in 2_Simulated_reads/*Zymo*_1.fastq.gz; do
+for i in 2_Simulated_reads/*Zymo*_R1.fastq.gz; do
   singlem pipe \
           --singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
           --forward $i \
-          --reverse ${i/_1.fastq/_2.fastq} \
+          --reverse ${i/_R1.fastq/_R2.fastq} \
           --threads $THREADS \
           --include-inserts \
-          --otu-table 3_Outputs/$(basename ${i/_1.fastq.gz/.tsv}) \
+          --otu-table 3_Outputs/1_Simulated_zymo/$(basename ${i/_R1.fastq.gz/_pipe.tsv}) \
           --output-extras;
+    done
+
+    ### Run SingleM condense
+for i in 3_Outputs/1_Simulated_zymo/*_pipe.tsv; do
+  singlem condense \
+          --singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
+          --input-otu-tables $i \
+          --output-otu-table ${i/.tsv/_condense.tsv} \
+          --trim-percent 10;
     done

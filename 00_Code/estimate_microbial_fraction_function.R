@@ -10,7 +10,7 @@ library(tidyverse)
 estimate_microbial_fraction <- function(condense_file) {
 
   
-genome_sizes <- read_delim("3_Outputs/gtdb_mean_genome_sizes.tsv")
+genome_sizes <- read_delim("3_Outputs/gtdb_r207_mean_genome_sizes.tsv")
 
 #Get lowest taxonomic rank from condense output, match it to the genome size
 #table, then create a new column: coverage * genome_size

@@ -1,0 +1,45 @@
+
+### Download a samples from each CAMI2 simulated metagenome type:
+
+## Marine associated:
+# BIOM profiles of a deep-sea environment, using 155 newly sequenced marine isolate genomes from this environment and 622 genomes with matching taxonomic provenance from MarRef
+# Additionally, 200 newly sequenced circular elements including plasmids and viruses were added
+wget https://frl.publisso.de/data/frl:6425521/marine/short_read/marmgCAMI2_sample_0_reads.tar.gz
+
+## Plant associated (90% bacterial, 9% fungi, 1% arabidopsis)
+# 894 genomes. Of these, 224 are from the proGenomes terrestrial representative genomes, 216 are newly sequenced genomes from an A. thaliana root rhizosphere, 55 are fungal genomes associated with the rhizosphere, 398 are plasmids or circular elements and one A. thaliana genome
+wget https://frl.publisso.de/data/frl:6425521/plant_associated/short_read/rhimgCAMI2_sample_0_reads.tar.gz
+
+## Strain madness:
+# 408 newly sequenced genomes, of which 97% (395) had a closely related strain.
+wget https://frl.publisso.de/data/frl:6425521/strain/short_read/strmgCAMI2_sample_0_reads.tar.gz
+
+# Decompress/rename:
+for i in *.tar.gz; do tar -xvzf $i; done
+
+mv short_read/2018.09.07_11.43.52_sample_0/reads/anonymous_reads.fq.gz strain_madness_0.fastq.gz
+mv simulation_short_read/2018.08.15_09.49.32_sample_0/reads/anonymous_reads.fq.gz marine_0.fastq.gz
+mv simulation_short_read/2019.09.27_13.59.10_sample_0/reads/anonymous_reads.fq.gz plant_0.fastq.gz
+
+# Reads are interleavened, so split them using bbmap's reformat.sh
+for i in *.fastq.gz; do reformat.sh in=$i out1=${i/.fastq/_R1.fastq} out2=${i/.fastq/_R2.fastq}; done
+
+# Run SingleM pipe!
+for i in *R1.fastq.gz; do
+  singlem pipe \
+          --singlem_metapackage ../../2022_SingleM_metagenome/0_Database/S3.0.1.metapackage_20211101.smpkg/ \
+          --forward $i \
+          --reverse ${i/R1.fastq/R2.fastq} \
+          --threads 40 \
+          --otu-table $(basename ${i/R1.fastq.gz/pipe.tsv}) \
+          --output-extras;
+    done
+
+# Run SingleM condense!
+for i in *pipe.tsv; do
+  singlem condense \
+          --singlem_metapackage ../../2022_SingleM_metagenome/0_Database/S3.0.1.metapackage_20211101.smpkg/ \
+          --input-otu-tables $i \
+          --output-otu-table ${i/_pipe.tsv/_condense.tsv} \
+          --trim-percent 10;
+    done
