@@ -7,7 +7,6 @@
 ## Load libraries
 library(tidyverse)
 
-estimate_microbial_fraction <- function(condense) {
 
   
 genome_sizes <- read_delim("3_Outputs/gtdb_mean_genome_sizes.tsv")
@@ -33,5 +32,5 @@ microbial_fraction_estimate_totals <- microbial_fraction_estimate %>%
 
 write_delim(microbial_fraction_estimate_totals, "3_Outputs/Simulated_Zymo_Spiked_microbial_estimate_totals.tsv", delim = "\t")
 
-}
+
 
