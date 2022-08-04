@@ -58,6 +58,11 @@ singlem_zymo_spiked_homo_genome_copy_number_estimates <- sum(sim_zymo_spiked_hom
 singlem_zymo_spiked_arabidopsis_genome_copy_number_estimates <- sum(sim_zymo_spiked_arabidopsis_condense$coverage)
 singlem_zymo_spiked_plasmodium_genome_copy_number_estimates <- sum(sim_zymo_spiked_plasmodium_condense$coverage)
 
+#Import the AUGUST improved taxonomic classification approach
+sim_zymo_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_AUGUST_pipe_condense.tsv")
+zymo_bact_arch_estimate_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_condense_AUG)$estimated_bp)
+zymo_bact_arch_estimate_AUG_mbp <- zymo_bact_arch_estimate_AUG_bp / 1000000
+
 ##Different condense parameters
 # sim_zymo_condense_10pc_0mtc <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_condense_10pc_0mtc.tsv")
 # sim_zymo_condense_0pc_0mtc <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_condense_0pc_0mtc.tsv")

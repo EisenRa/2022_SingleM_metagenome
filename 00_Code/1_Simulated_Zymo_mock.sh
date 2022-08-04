@@ -94,11 +94,35 @@ for i in 2_Simulated_reads/*Zymo*_R1.fastq.gz; do
           --output-extras;
     done
 
-    ### Run SingleM condense
+### Run SingleM condense
 for i in 3_Outputs/1_Simulated_zymo/*_pipe.tsv; do
   singlem condense \
           --singlem_metapackage 0_Database/S3.0.1.metapackage_20211101.smpkg/ \
           --input-otu-tables $i \
           --output-otu-table ${i/.tsv/_condense.tsv} \
+          --trim-percent 10;
+    done
+
+
+### Updated (Aug) SingleM taxonomy classification method (and databases)
+for i in 2_Simulated_reads/*Zymo*_R1.fastq.gz; do
+  singlem pipe \
+          --singlem_metapackage 0_Database/S3.metapackage_20220513.smpkg/ \
+          --forward $i \
+          --reverse ${i/_R1.fastq/_R2.fastq} \
+          --threads $THREADS \
+          --assignment-singlem-db 0_Database/S3.metapackage_20220513.smpkg/gtdb_r207.reassigned.v5.sdb \
+          --assignment-method naive_then_diamond \
+          --archive-otu-table 3_Outputs/1_Simulated_zymo/$(basename ${i/_R1.fastq.gz/_AUGUST_pipe.json}) \
+          --otu-table 3_Outputs/1_Simulated_zymo/$(basename ${i/_R1.fastq.gz/_AUGUST_pipe.tsv});
+    done
+
+
+for i in 3_Outputs/1_Simulated_zymo/*_AUGUST_pipe.json; do
+  singlem condense \
+          --singlem_metapackage 0_Database/S3.metapackage_20220513.smpkg/ \
+          --input-archive-otu-table $i \
+          --output-otu-table ${i/.json/_condense.tsv} \
+          --apply-expectation-maximisation \
           --trim-percent 10;
     done
