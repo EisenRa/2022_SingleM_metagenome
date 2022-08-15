@@ -24,7 +24,7 @@ gtdb_arc_metadata <- read_tsv("0_Database/ar53_metadata_r207.tsv")
 ## Also split out taxonomy strink into columns by taxonomic rank
 gtdb_combined_metadata <- rbind(gtdb_arc_metadata, gtdb_bac_metadata) %>%
 #  filter(checkm_completeness > 80 & checkm_contamination < 10) %>%
-  mutate(gtdb_taxonomy = str_replace_all(gtdb_taxonomy, ".__", "")) %>%
+#  mutate(gtdb_taxonomy = str_replace_all(gtdb_taxonomy, ".__", "")) %>%
   separate(., col = gtdb_taxonomy,
            sep = ";",
            into = c("domain", "phylum", "class", "order", "family", "genus", "species")

@@ -15,7 +15,7 @@ genome_sizes <- read_delim("3_Outputs/gtdb_r207_mean_genome_sizes.tsv")
 #Get lowest taxonomic rank from condense output, match it to the genome size
 #table, then create a new column: coverage * genome_size
 microbial_fraction_estimate <- condense_file %>%
-  mutate(lowest_rank = str_extract(taxonomy, "[^__]+(?=$)")) %>%
+  mutate(lowest_rank = word(taxonomy, -1, sep = "__")) %>%
   inner_join(., genome_sizes, by = c("lowest_rank" = "rank")) %>%
   mutate(estimated_bp = coverage * genome_size,
          estimated_mbp = (coverage * genome_size) / 1000000,
