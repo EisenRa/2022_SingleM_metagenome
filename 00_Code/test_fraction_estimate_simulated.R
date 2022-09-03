@@ -60,9 +60,22 @@ singlem_zymo_spiked_plasmodium_genome_copy_number_estimates <- sum(sim_zymo_spik
 
 #Import the AUGUST improved taxonomic classification approach
 sim_zymo_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_AUGUST_pipe_condense.tsv")
+sim_zymo_spiked_homo_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_Spiked_Homo_AUGUST_pipe_condense.tsv")
+sim_zymo_spiked_arabidopsis_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_Spiked_Arabidopsis_AUGUST_pipe_condense.tsv")
+sim_zymo_spiked_plasmodium_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_Spiked_Plasmodium_AUGUST_pipe_condense.tsv")
+
 zymo_bact_arch_estimate_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_condense_AUG)$estimated_bp)
 zymo_bact_arch_estimate_AUG_mbp <- zymo_bact_arch_estimate_AUG_bp / 1000000
+zymo_bact_arch_estimate_homo_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_spiked_homo_condense_AUG)$estimated_bp)
+zymo_bact_arch_estimate_homo_AUG_mbp <- zymo_bact_arch_estimate_homo_AUG_bp / 1000000
+zymo_bact_arch_estimate_arabidopsis_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_spiked_arabidopsis_condense_AUG)$estimated_bp)
+zymo_bact_arch_estimate_arabidopsis_AUG_mbp <- zymo_bact_arch_estimate_arabidopsis_AUG_bp / 1000000
+zymo_bact_arch_estimate_plasmodium_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_spiked_plasmodium_condense_AUG)$estimated_bp)
+zymo_bact_arch_estimate_plasmodium_AUG_mbp <- zymo_bact_arch_estimate_plasmodium_AUG_bp / 1000000
 
+
+zymo_bact_arch_estimate_arabidopsis_AUG_mbp/bacterial_archaeal_ground_truth_mbp - 1
+zymo_bact_arch_estimate_plasmodium_AUG_mbp/bacterial_archaeal_ground_truth_mbp - 1
 ##Different condense parameters
 # sim_zymo_condense_10pc_0mtc <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_condense_10pc_0mtc.tsv")
 # sim_zymo_condense_0pc_0mtc <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_condense_0pc_0mtc.tsv")
@@ -107,25 +120,35 @@ ggsave("3_Outputs/bacterial_archaeal_estimate_barplot.png")
 
 df2 <- tibble(
   ground_truth = bacterial_archaeal_ground_truth_mbp,
-  no_spiking = zymo_bact_arch_estimate_mbp,
-  homo_spiked = zymo_spiked_homo_bact_arch_estimate_mbp,
-  arabidopsis_spiked = zymo_spiked_arabidopsis_bact_arch_estimate_mbp,
-  plasmodium_spiked = zymo_spiked_plasmodium_bact_arch_estimate_mbp,
+  no_spiking_old = zymo_bact_arch_estimate_mbp,
+  homo_spiked_old = zymo_spiked_homo_bact_arch_estimate_mbp,
+  arabidopsis_spiked_old = zymo_spiked_arabidopsis_bact_arch_estimate_mbp,
+  plasmodium_spiked_old = zymo_spiked_plasmodium_bact_arch_estimate_mbp,
+  no_spiking_ExpMax = zymo_bact_arch_estimate_AUG_mbp,
+  homo_spiked_ExpMax = zymo_bact_arch_estimate_homo_AUG_mbp,
+  arabidopsis_spiked_ExpMax = zymo_bact_arch_estimate_arabidopsis_AUG_mbp,
+  plasmodium_spiked_ExpMax = zymo_bact_arch_estimate_plasmodium_AUG_mbp,
 ) %>%
   pivot_longer(everything(), names_to = "method", values_to = "mbp_estimate") %>%
-  mutate(percent_estimated = mbp_estimate/332.3029)
+  mutate(percent_estimated = mbp_estimate/332.3029) %>%
+  mutate(classification_method = case_when(str_detect(method, "old") ~ "old",
+                                           str_detect(method, "ExpMax") ~ "Expectation Maximisation"))
 
 write_tsv(df2, "3_Outputs/1_Simulated_zymo/estimate_values.tsv")
 
 df2 %>%
-  ggplot(aes(x = method, y = value, fill = method)) +
+  ggplot(aes(x = method, y = mbp_estimate, fill = classification_method)) +
   geom_bar(stat = "identity") +
+  geom_hline(yintercept = 332) +
+  facet_wrap(~classification_method, scales = "free_x") +
   labs(y = "mbp of bacterial/archaeal DNA") +
   theme_classic() +
   theme(
-    legend.position = 0
+    legend.position = 0,
+    axis.text.x = element_text(angle = 90)
   )
 
+ggsave("3_Outputs/1_Simulated_zymo/Expectation_maximisation.png", width = 12, height = 8, units = "in")
 
 ##Why the ~10% discrepancy between ground_truth and estimate?
 # Taxonomic specificity of SingleM (i.e. we don't have all species classifications)
@@ -198,6 +221,5 @@ salmon <- 144279 * 150 * 2
 bacil <- 134855 * 150 * 2
 
 bact <- staph+pseudo+lacto+list+entero+escher+salmon+bacil
-
 
 

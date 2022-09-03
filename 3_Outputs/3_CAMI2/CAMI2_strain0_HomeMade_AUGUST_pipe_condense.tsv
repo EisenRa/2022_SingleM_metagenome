@@ -1,0 +1,86 @@
+sample	coverage	taxonomy
+CAMI2_strain0-R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+CAMI2_strain0-R1	0.34	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae
+CAMI2_strain0-R1	0.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae
+CAMI2_strain0-R1	0.17	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae
+CAMI2_strain0-R1	3.75	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae
+CAMI2_strain0-R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae
+CAMI2_strain0-R1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus
+CAMI2_strain0-R1	0.24	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_B
+CAMI2_strain0-R1	21.09	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+CAMI2_strain0-R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus
+CAMI2_strain0-R1	0.52	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus
+CAMI2_strain0-R1	1.04	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter
+CAMI2_strain0-R1	17.88	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia
+CAMI2_strain0-R1	0.85	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella
+CAMI2_strain0-R1	0.21	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea
+CAMI2_strain0-R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola
+CAMI2_strain0-R1	0.29	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Parabacteroides
+CAMI2_strain0-R1	28.89	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Staphylococcus; s__Staphylococcus aureus
+CAMI2_strain0-R1	34.76	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_B; s__Enterococcus_B faecium
+CAMI2_strain0-R1	0.41	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus_B; s__Enterococcus_B lactis
+CAMI2_strain0-R1	0.74	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__Enterococcus faecalis
+CAMI2_strain0-R1	0.61	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AI
+CAMI2_strain0-R1	0.1	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AK
+CAMI2_strain0-R1	119.19	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pneumoniae
+CAMI2_strain0-R1	0.07	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_I
+CAMI2_strain0-R1	4.02	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pseudopneumoniae
+CAMI2_strain0-R1	0.08	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_BE
+CAMI2_strain0-R1	3.41	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_BM
+CAMI2_strain0-R1	0.15	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp013277415
+CAMI2_strain0-R1	0.18	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_BA
+CAMI2_strain0-R1	0.08	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp001650315
+CAMI2_strain0-R1	2.19	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp013394695
+CAMI2_strain0-R1	0.78	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp905221105
+CAMI2_strain0-R1	0.12	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus parasanguinis_B
+CAMI2_strain0-R1	0.24	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AW
+CAMI2_strain0-R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp905221145
+CAMI2_strain0-R1	0.13	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp905221205
+CAMI2_strain0-R1	0.99	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp905221215
+CAMI2_strain0-R1	0.21	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AR
+CAMI2_strain0-R1	0.09	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AZ
+CAMI2_strain0-R1	1.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_C
+CAMI2_strain0-R1	0.19	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_AY
+CAMI2_strain0-R1	0.05	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pseudopneumoniae_H
+CAMI2_strain0-R1	2.72	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pneumoniae_B
+CAMI2_strain0-R1	1.2	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pneumoniae_A
+CAMI2_strain0-R1	0.22	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus oralis_AB
+CAMI2_strain0-R1	0.09	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp003428885
+CAMI2_strain0-R1	0.14	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus oralis_BI
+CAMI2_strain0-R1	0.78	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_BB
+CAMI2_strain0-R1	0.25	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp905221195
+CAMI2_strain0-R1	1.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus sp000187745
+CAMI2_strain0-R1	0.09	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_O
+CAMI2_strain0-R1	0.08	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus pseudopneumoniae_P
+CAMI2_strain0-R1	0.21	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus mitis_BQ
+CAMI2_strain0-R1	0.08	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus infantis_C
+CAMI2_strain0-R1	0.43	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__Streptococcus oralis_BM
+CAMI2_strain0-R1	3.18	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__Lactobacillus intestinalis
+CAMI2_strain0-R1	0.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae; g__Paenibacillus; s__Paenibacillus lautus_A
+CAMI2_strain0-R1	0.13	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter werkmanii
+CAMI2_strain0-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter portucalensis
+CAMI2_strain0-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter youngae
+CAMI2_strain0-R1	3.41	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter freundii
+CAMI2_strain0-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter sp015672735
+CAMI2_strain0-R1	1.13	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter freundii_A
+CAMI2_strain0-R1	0.33	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Citrobacter; s__Citrobacter europaeus
+CAMI2_strain0-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Phytobacter; s__Phytobacter palmae
+CAMI2_strain0-R1	31.69	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia fergusonii
+CAMI2_strain0-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia sp001660175
+CAMI2_strain0-R1	0.05	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia marmotae
+CAMI2_strain0-R1	115.77	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli
+CAMI2_strain0-R1	0.35	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia sp004211955
+CAMI2_strain0-R1	6.21	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia sp005843885
+CAMI2_strain0-R1	7.96	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia coli_E
+CAMI2_strain0-R1	13.68	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia ruysiae
+CAMI2_strain0-R1	1.84	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia albertii
+CAMI2_strain0-R1	6.27	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Escherichia; s__Escherichia sp002965065
+CAMI2_strain0-R1	0.55	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella variicola
+CAMI2_strain0-R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella aerogenes
+CAMI2_strain0-R1	45.33	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella pneumoniae
+CAMI2_strain0-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella quasipneumoniae
+CAMI2_strain0-R1	4.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Klebsiella; s__Klebsiella africana
+CAMI2_strain0-R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Salmonella; s__Salmonella diarizonae
+CAMI2_strain0-R1	5.45	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola; s__Phocaeicola sartorii
+CAMI2_strain0-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola; s__Phocaeicola sp011959205
+CAMI2_strain0-R1	2.31	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Parabacteroides; s__Parabacteroides goldsteinii

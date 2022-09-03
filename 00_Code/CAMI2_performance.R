@@ -11,50 +11,191 @@ source("00_Code/estimate_microbial_fraction_function.R")
 
 ## Metagenome stats
 marine0_paired_reads <- 16647395
-marine0_bp <- 2497109250 * 2
-marine0_mbp <- marine0_bp / 1000000
-marine0_gbp <- marine0_mbp / 1000
+marine0_groundtruth_bp <- 2497105500 * 2
+marine0_groundtruth_plasmids_bp <- 56371500 * 2
+marine0_groundtruth_bacteria_bp <- marine0_groundtruth_bp - marine0_groundtruth_plasmids_bp
+marine0_groundtruth_mbp <- marine0_groundtruth_bacteria_bp / 1000000
+marine0_groundtruth_gbp <- marine0_groundtruth_mbp / 1000
 marine0_genome_copies_new <- 1427.699658
 
 plant0_paired_reads <- 16627054
-plant0_bp <- 2494058100 * 2
-plant0_mbp <- plant0_bp / 1000000
-plant0_gbp <- plant0_mbp / 1000
+plant0_groundtruth_bp <- 2494058100 * 2
+plant0_groundtruth_mbp <- plant0_groundtruth_bp / 1000000
+plant0_groundtruth_gbp <- plant0_groundtruth_mbp / 1000
 plant0_genome_copies_new <- 658.226053
 
 smadness0_paired_reads <- 6655023
-smadness0_bp <- 998253450 * 2
-smadness0_mbp <- smadness0_bp / 1000000
-smadness0_gbp <- smadness0_mbp / 1000
+smadness0_groundtruth_bp <- 998253450 * 2
+smadness0_groundtruth_mbp <- smadness0_groundtruth_bp / 1000000
+smadness0_groundtruth_gbp <- smadness0_groundtruth_mbp / 1000
 smadness0_genome_copies_new <- 512.4978345
 
 ## Import condense outputs
-marine0_condense <- read_delim("3_Outputs/3_CAMI2/marine_0_condense.tsv")
-plant0_condense <- read_delim("3_Outputs/3_CAMI2/plant_0_condense.tsv")
-smadness0_condense <- read_delim("3_Outputs/3_CAMI2/strain_madness_0_condense.tsv")
+marine0_CAMISIM_condense <- read_delim("3_Outputs/3_CAMI2/marine_0_condense.tsv")
+plant0_CAMISIM_condense <- read_delim("3_Outputs/3_CAMI2/plant_0_condense.tsv")
+smadness0_CAMISIM_condense <- read_delim("3_Outputs/3_CAMI2/strain_madness_0_condense.tsv")
 
-# SingleM estimated genome copy numbers?
-marine0_singlem_estimated_coverage <- sum(marine0_condense$coverage)
-marine0_singlem_performance <- marine0_singlem_estimated_coverage/marine0_genome_copies_new
+#August results:
+marine0_CAMISIM_august_condense <- read_delim("3_Outputs/3_CAMI2/marine_0_AUGUST_pipe_condense.tsv")
+plant0_CAMISIM_august_condense <- read_delim("3_Outputs/3_CAMI2/plant_0_AUGUST_pipe_condense.tsv")
+smadness0_CAMISIM_august_condense <- read_delim("3_Outputs/3_CAMI2/strain_madness_0_AUGUST_pipe_condense.tsv")
 
-plant0_singlem_estimated_coverage <- sum(plant0_condense$coverage)
-plant0_singlem_performance <- plant0_singlem_estimated_coverage/plant0_genome_copies_new
+#August results (home-made simulated metagenomes)
+marine0_HM_august_condense <- read_delim("3_Outputs/3_CAMI2/CAMI2_marine0_HomeMade_AUGUST_pipe_condense.tsv")
+plant0_HM_august_condense <- read_delim("3_Outputs/3_CAMI2/CAMI2_plant0_HomeMade_AUGUST_pipe_condense.tsv")
+smadness0_HM_august_condense <- read_delim("3_Outputs/3_CAMI2/CAMI2_strain0_HomeMade_AUGUST_pipe_condense.tsv")
 
-smadness0_singlem_estimated_coverage <- sum(smadness0_condense$coverage)
-smadness0_singlem_performance <- smadness0_singlem_estimated_coverage/smadness0_genome_copies_new
+
+## SingleM estimated genome copy numbers?
+marine0_CAMISIM_singlem_estimated_coverage <- sum(marine0_CAMISIM_condense$coverage)
+marine0_CAMISIM_singlem_performance <- marine0_CAMISIM_singlem_estimated_coverage/marine0_genome_copies_new
+
+plant0_CAMISIM_singlem_estimated_coverage <- sum(plant0_CAMISIM_condense$coverage)
+plant0_CAMISIM_singlem_performance <- plant0_CAMISIM_singlem_estimated_coverage/plant0_genome_copies_new
+
+smadness0_CAMISIM_singlem_estimated_coverage <- sum(smadness0_CAMISIM_condense$coverage)
+smadness0_CAMISIM_singlem_performance <- smadness0_CAMISIM_singlem_estimated_coverage/smadness0_genome_copies_new
+
+#August results
+marine0_CAMISIM_august_singlem_estimated_coverage <- sum(marine0_CAMISIM_august_condense$coverage)
+marine0_CAMISIM_august_singlem_performance <- marine0_CAMISIM_august_singlem_estimated_coverage/marine0_genome_copies_new
+
+plant0_CAMISIM_august_singlem_estimated_coverage <- sum(plant0_CAMISIM_august_condense$coverage)
+plant0_CAMISIM_august_singlem_performance <- plant0_CAMISIM_august_singlem_estimated_coverage/plant0_genome_copies_new
+
+smadness0_CAMISIM_august_singlem_estimated_coverage <- sum(smadness0_CAMISIM_august_condense$coverage)
+smadness0_CAMISIM_august_singlem_performance <- smadness0_CAMISIM_august_singlem_estimated_coverage/smadness0_genome_copies_new
+
+#August results (home-made simulated metagenomes)
+marine0_HM_august_singlem_estimated_coverage <- sum(marine0_HM_august_condense$coverage)
+marine0_HM_august_singlem_performance <- marine0_HM_august_singlem_estimated_coverage/marine0_genome_copies_new
+
+plant0_HM_august_singlem_estimated_coverage <- sum(plant0_HM_august_condense$coverage)
+plant0_HM_august_singlem_performance <- plant0_HM_august_singlem_estimated_coverage/plant0_genome_copies_new
+
+smadness0_HM_august_singlem_estimated_coverage <- sum(smadness0_HM_august_condense$coverage)
+smadness0_HM_august_singlem_performance <- smadness0_HM_august_singlem_estimated_coverage/smadness0_genome_copies_new
+
 
 ## Get bacterial/archaeal fraction estimates
-marine0_estimate_bp <- sum(estimate_microbial_fraction(marine0_condense)$estimated_bp)
-marine0_estimate_bp / 1000000000
+marine0_CAMISIM_estimate_bp <- sum(estimate_microbial_fraction(marine0_CAMISIM_condense)$estimated_bp)
+marine0_CAMISIM_estimate_mbp <- marine0_CAMISIM_estimate_bp/1000000
 
-plant0_estimate_bp <- sum(estimate_microbial_fraction(plant0_condense)$estimated_bp)
-plant0_estimate_bp / 1000000000
+plant0_CAMISIM_estimate_bp <- sum(estimate_microbial_fraction(plant0_CAMISIM_condense)$estimated_bp)
+plant0_CAMISIM_estimate_mbp <- plant0_CAMISIM_estimate_bp/1000000
 
-smadness0_estimate_bp <- sum(estimate_microbial_fraction(smadness0_condense)$estimated_bp)
-smadness0_estimate_bp / 1000000000
+smadness0_CAMISIM_estimate_bp <- sum(estimate_microbial_fraction(smadness0_CAMISIM_condense)$estimated_bp)
+smadness0_CAMISIM_estimate_mbp <- smadness0_CAMISIM_estimate_bp/1000000
+
+# August results
+marine0_CAMISIM_august_estimate_bp <- sum(estimate_microbial_fraction(marine0_CAMISIM_CAMISIM_august_condense)$estimated_bp)
+marine0_CAMISIM_august_estimate_mbp <- marine0_CAMISIM_august_estimate_bp/1000000
+
+plant0_CAMISIM_august_estimate_bp <- sum(estimate_microbial_fraction(plant0_CAMISIM_august_condense)$estimated_bp)
+plant0_CAMISIM_august_estimate_mbp <- plant0_CAMISIM_august_estimate_bp/1000000
+
+smadness0_CAMISIM_august_estimate_bp <- sum(estimate_microbial_fraction(smadness0_CAMISIM_august_condense)$estimated_bp)
+smadness0_CAMISIM_august_estimate_mbp <- smadness0_CAMISIM_august_estimate_bp/1000000
+
+#August results (home-made simulated metagenomes)
+marine0_HM_august_estimate_bp <- sum(estimate_microbial_fraction(marine0_HM_august_condense)$estimated_bp)
+marine0_HM_august_estimate_mbp <- marine0_HM_august_estimate_bp/1000000
+
+plant0_HM_august_estimate_bp <- sum(estimate_microbial_fraction(plant0_HM_august_condense)$estimated_bp)
+plant0_HM_august_estimate_mbp <- plant0_HM_august_estimate_bp/1000000
+
+smadness0_HM_august_estimate_bp <- sum(estimate_microbial_fraction(smadness0_HM_august_condense)$estimated_bp)
+smadness0_HM_august_estimate_mbp <- smadness0_HM_august_estimate_bp/1000000
 
 
-gt <- read_delim("3_Outputs/3_CAMI2/coverage_new0.tsv", col_names = c("genome", "coverage"))
+## Plots
+
+df_all <- tibble(
+  marine0_HM_august_estimate_mbp, smadness0_HM_august_estimate_mbp,
+  marine0_CAMISIM_august_estimate_mbp, smadness0_CAMISIM_august_estimate_mbp,
+  marine0_groundtruth_mbp, smadness0_groundtruth_mbp
+) %>%
+  pivot_longer(everything(), names_to = "environment", values_to = "estimate") %>%
+  mutate(origin = case_when(str_detect(environment, "HM") ~ "home_made",
+                               str_detect(environment, "CAMISIM") ~ "CAMISIM",
+                               str_detect(environment, "groundtruth") ~ "ground_truth"),
+         community = case_when(str_detect(environment, "marine") ~ "marine",
+                               str_detect(environment, "smad") ~ "strain-madness")
+         )
+
+df_all %>%
+  ggplot(aes(x = reorder(environment, estimate), 
+             y = estimate, 
+             fill = factor(origin, levels = c("CAMISIM", "home_made", "ground_truth")))) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~community, scales = "free_x") +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_blank(),
+    axis.title.x = element_blank(),
+    legend.title = element_blank()
+  ) +
+  ylab("mbp")
+
+ggsave("3_Outputs/3_CAMI2/SingleM_CAMI2_HomeBrew.pdf", width = 10, height = 10, unit = "in")
+
+
+
+df <- tibble(
+  marine0_HM_august_estimate_mbp, smadness0_HM_august_estimate_mbp,
+  marine0_groundtruth_mbp, smadness0_groundtruth_mbp
+) %>%
+  pivot_longer(everything(), names_to = "environment", values_to = "estimate") %>%
+  mutate(source = case_when(str_detect(environment, "HM") ~ "home_made",
+                            str_detect(environment, "CAMISIM") ~ "CAMISIM",
+                            str_detect(environment, "groundtruth") ~ "ground_truth"),
+         community = case_when(str_detect(environment, "marine") ~ "marine",
+                               str_detect(environment, "smad") ~ "strain-madness")
+  )
+
+df %>%
+  ggplot(aes(x = environment, y = estimate, fill = source)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~community, scales = "free_x") +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 90)
+  ) +
+  ylab("mbp")
+
+ggsave("3_Outputs/3_CAMI2/SingleM_CAMI2.pdf", width = 10, height = 10, unit = "in")
+
+
+#PERCENTAGES
+
+df_all_perc <- tibble(
+  marine0_HM_august_singlem_performance, smadness0_HM_august_singlem_performance,
+  marine0_CAMISIM_august_singlem_performance, smadness0_CAMISIM_august_singlem_performance
+) %>%
+  pivot_longer(everything(), names_to = "environment", values_to = "estimate") %>%
+  mutate(origin = case_when(str_detect(environment, "HM") ~ "home_made",
+                            str_detect(environment, "CAMISIM") ~ "CAMISIM"),
+         community = case_when(str_detect(environment, "marine") ~ "marine",
+                               str_detect(environment, "smad") ~ "strain-madness")
+  )
+
+df_all_perc %>%
+  ggplot(aes(x = reorder(environment, estimate), 
+             y = estimate, 
+             fill = factor(origin, levels = c("CAMISIM", "home_made")))) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~community, scales = "free_x") +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_blank(),
+    axis.title.x = element_blank(),
+    legend.title = element_blank()
+  ) +
+  ylab("mbp")
+
+ggsave("3_Outputs/3_CAMI2/SingleM_CAMI2_HomeBrew_PERCENTAGE.pdf", width = 10, height = 10, unit = "in")
+
+#Check coverage of plasmids
 
 gt_plasmids <- gt %>% 
   filter(str_detect(genome, "^RNODE")) %>%

@@ -106,7 +106,7 @@ for i in 3_Outputs/1_Simulated_zymo/*_pipe.tsv; do
 
 ### Updated (Aug) SingleM taxonomy classification method (and databases)
 for i in 2_Simulated_reads/*Zymo*_R1.fastq.gz; do
-  singlem pipe \
+  ../singlem_versions/singlem_dev_03_08_22/bin/singlem pipe \
           --singlem_metapackage 0_Database/S3.metapackage_20220513.smpkg/ \
           --forward $i \
           --reverse ${i/_R1.fastq/_R2.fastq} \
@@ -119,7 +119,7 @@ for i in 2_Simulated_reads/*Zymo*_R1.fastq.gz; do
 
 
 for i in 3_Outputs/1_Simulated_zymo/*_AUGUST_pipe.json; do
-  singlem condense \
+  ../singlem_versions/singlem_dev_03_08_22/bin/singlem condense \
           --singlem_metapackage 0_Database/S3.metapackage_20220513.smpkg/ \
           --input-archive-otu-table $i \
           --output-otu-table ${i/.json/_condense.tsv} \
