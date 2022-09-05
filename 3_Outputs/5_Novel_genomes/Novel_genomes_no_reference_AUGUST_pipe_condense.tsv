@@ -1,1 +1,593 @@
 sample	coverage	taxonomy
+Novel_genomes_no_reference-R1	1.88	Root; d__Archaea
+Novel_genomes_no_reference-R1	11.12	Root; d__Bacteria
+Novel_genomes_no_reference-R1	1.22	Root; d__Archaea; p__Thermoproteota
+Novel_genomes_no_reference-R1	0.21	Root; d__Archaea; p__Halobacteriota
+Novel_genomes_no_reference-R1	0.22	Root; d__Archaea; p__Thermoplasmatota
+Novel_genomes_no_reference-R1	0.27	Root; d__Bacteria; p__Proteobacteria
+Novel_genomes_no_reference-R1	1.73	Root; d__Bacteria; p__Actinobacteriota
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Firmicutes_D
+Novel_genomes_no_reference-R1	2.3	Root; d__Bacteria; p__Desulfobacterota
+Novel_genomes_no_reference-R1	0.58	Root; d__Bacteria; p__Bacteroidota
+Novel_genomes_no_reference-R1	0.55	Root; d__Bacteria; p__Myxococcota
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Cyanobacteria
+Novel_genomes_no_reference-R1	1.2	Root; d__Bacteria; p__Acidobacteriota
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_A
+Novel_genomes_no_reference-R1	1.94	Root; d__Bacteria; p__Patescibacteria
+Novel_genomes_no_reference-R1	0.83	Root; d__Bacteria; p__Firmicutes_B
+Novel_genomes_no_reference-R1	0.65	Root; d__Bacteria; p__Planctomycetota
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes_C
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Nitrospirota
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Spirochaetota
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Chloroflexota
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Verrucomicrobiota
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Bdellovibrionota
+Novel_genomes_no_reference-R1	0.09	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria
+Novel_genomes_no_reference-R1	0.11	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia
+Novel_genomes_no_reference-R1	0.27	Root; d__Archaea; p__Thermoproteota; c__Bathyarchaeia
+Novel_genomes_no_reference-R1	0.16	Root; d__Archaea; p__Aenigmatarchaeota; c__Aenigmatarchaeia
+Novel_genomes_no_reference-R1	0.43	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia
+Novel_genomes_no_reference-R1	7.41	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+Novel_genomes_no_reference-R1	5.72	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+Novel_genomes_no_reference-R1	2.36	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria
+Novel_genomes_no_reference-R1	4.4	Root; d__Bacteria; p__Firmicutes; c__Bacilli
+Novel_genomes_no_reference-R1	1.53	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Myxococcota; c__Polyangia
+Novel_genomes_no_reference-R1	1.78	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Acidobacteriota; c__Acidobacteriae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Acidobacteriota; c__Aminicenantia
+Novel_genomes_no_reference-R1	1.54	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria
+Novel_genomes_no_reference-R1	0.57	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia
+Novel_genomes_no_reference-R1	1.25	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Firmicutes_G; c__Limnochordia
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Calditrichota; c__Calditrichia
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia
+Novel_genomes_no_reference-R1	0.3	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_C; c__Negativicutes
+Novel_genomes_no_reference-R1	0.31	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia
+Novel_genomes_no_reference-R1	0.34	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Spirochaetota; c__Spirochaetia
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae
+Novel_genomes_no_reference-R1	0.16	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia; o__Sulfolobales
+Novel_genomes_no_reference-R1	0.05	Root; d__Archaea; p__Thermoproteota; c__Bathyarchaeia; o__40CM-2-53-6
+Novel_genomes_no_reference-R1	0.05	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__SCGC-AAA011-G17
+Novel_genomes_no_reference-R1	0.11	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Pacearchaeales
+Novel_genomes_no_reference-R1	1.2	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales
+Novel_genomes_no_reference-R1	2.88	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales
+Novel_genomes_no_reference-R1	0.32	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__HIMB59
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales
+Novel_genomes_no_reference-R1	3.61	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales
+Novel_genomes_no_reference-R1	2.84	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales
+Novel_genomes_no_reference-R1	2.62	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales
+Novel_genomes_no_reference-R1	0.48	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales
+Novel_genomes_no_reference-R1	3.19	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__DTU022
+Novel_genomes_no_reference-R1	1.02	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Desulfobacterota; c__Desulfofervidia; o__Desulfofervidales
+Novel_genomes_no_reference-R1	1.12	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Desulfobacterota; c__DSM-4660; o__Desulfatiglandales
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales
+Novel_genomes_no_reference-R1	0.52	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B
+Novel_genomes_no_reference-R1	2.24	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales
+Novel_genomes_no_reference-R1	0.93	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales
+Novel_genomes_no_reference-R1	2.5	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales
+Novel_genomes_no_reference-R1	2.82	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia; o__Sumerlaeales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Acidobacteriota; c__Acidobacteriae; o__Acidobacteriales
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Thermoanaerobaculales
+Novel_genomes_no_reference-R1	0.33	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Tissierellales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales
+Novel_genomes_no_reference-R1	0.68	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales
+Novel_genomes_no_reference-R1	2.5	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Desulfobacterota_C; c__Anaeroferrophillalia; o__Anaeroferrophillales
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia; o__DULZ01
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Calditrichota; c__Calditrichia; o__Calditrichales
+Novel_genomes_no_reference-R1	1.1	Root; d__Bacteria; p__Planctomycetota; c__Brocadiae; o__Brocadiales
+Novel_genomes_no_reference-R1	0.88	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales
+Novel_genomes_no_reference-R1	0.7	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales
+Novel_genomes_no_reference-R1	0.59	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales
+Novel_genomes_no_reference-R1	0.34	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales
+Novel_genomes_no_reference-R1	0.25	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales
+Novel_genomes_no_reference-R1	0.75	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae
+Novel_genomes_no_reference-R1	0.5	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Anaplasmataceae
+Novel_genomes_no_reference-R1	13.48	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+Novel_genomes_no_reference-R1	1.86	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae
+Novel_genomes_no_reference-R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Emcibacteraceae
+Novel_genomes_no_reference-R1	1.55	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Casp-alpha2
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__HIMB59; f__GCA-002718135
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae
+Novel_genomes_no_reference-R1	0.51	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Maricaulaceae
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Pelagibacterales; f__Pelagibacteraceae
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Azospirillales; f__Azospirillaceae
+Novel_genomes_no_reference-R1	0.46	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Endozoicomonadaceae
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__HTCC2089
+Novel_genomes_no_reference-R1	2.96	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae
+Novel_genomes_no_reference-R1	1.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Nitrincolaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Porticoccaceae
+Novel_genomes_no_reference-R1	0.33	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae
+Novel_genomes_no_reference-R1	0.21	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudohongiellaceae
+Novel_genomes_no_reference-R1	1.42	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae
+Novel_genomes_no_reference-R1	2.53	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae
+Novel_genomes_no_reference-R1	1.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae
+Novel_genomes_no_reference-R1	0.81	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Gallionellaceae
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Sulfuricellaceae
+Novel_genomes_no_reference-R1	0.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Nitrosomonadaceae
+Novel_genomes_no_reference-R1	2.93	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae
+Novel_genomes_no_reference-R1	6.81	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae
+Novel_genomes_no_reference-R1	0.34	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Pasteurellaceae
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Aquisalimonadaceae
+Novel_genomes_no_reference-R1	1.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A; f__Enterobacteriaceae_A
+Novel_genomes_no_reference-R1	1.38	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Chromatiaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Coxiellales; f__Coxiellaceae
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Methylococcales; f__Methylomonadaceae
+Novel_genomes_no_reference-R1	1.89	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Dermatophilaceae
+Novel_genomes_no_reference-R1	0.8	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae
+Novel_genomes_no_reference-R1	1.87	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Nitriliruptorales; f__Nitriliruptoraceae
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae
+Novel_genomes_no_reference-R1	0.91	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales; f__Streptomycetaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptosporangiales; f__Streptosporangiaceae
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__RAAP-2
+Novel_genomes_no_reference-R1	0.59	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8190
+Novel_genomes_no_reference-R1	1.2	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__JAAYBP01
+Novel_genomes_no_reference-R1	0.55	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae
+Novel_genomes_no_reference-R1	0.52	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Eggerthellaceae
+Novel_genomes_no_reference-R1	0.52	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales; f__70-9
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__Dethiobacterales; f__Dethiobacteraceae
+Novel_genomes_no_reference-R1	0.41	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__SKNC01; f__SKNC01
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Firmicutes_D; c__Natranaerobiia; o__Natranaerobiales; f__Natranaerobiaceae
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfolunaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfococcaceae
+Novel_genomes_no_reference-R1	0.89	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales; f__Desulfocapsaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales; f__QOAL01
+Novel_genomes_no_reference-R1	1.27	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Erysipelotrichales; f__Coprobacillaceae
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B; f__DSM-1321
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B; f__DSM-18226
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Brevibacillales; f__Brevibacillaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__RF39; f__UBA660
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae
+Novel_genomes_no_reference-R1	6.12	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae
+Novel_genomes_no_reference-R1	0.68	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Bernardetiaceae
+Novel_genomes_no_reference-R1	0.6	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Spirosomaceae
+Novel_genomes_no_reference-R1	0.79	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae
+Novel_genomes_no_reference-R1	7.89	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae
+Novel_genomes_no_reference-R1	1.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__F082
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Muribaculaceae
+Novel_genomes_no_reference-R1	2.79	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae
+Novel_genomes_no_reference-R1	4.2	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae
+Novel_genomes_no_reference-R1	1.15	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae
+Novel_genomes_no_reference-R1	0.33	Root; d__Bacteria; p__Caldisericota; c__Caldisericia; o__B22-G15; f__B22-G15
+Novel_genomes_no_reference-R1	2.57	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae
+Novel_genomes_no_reference-R1	0.64	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Phormidesmiales; f__Phormidesmiaceae
+Novel_genomes_no_reference-R1	6.71	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae
+Novel_genomes_no_reference-R1	0.87	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcoleaceae
+Novel_genomes_no_reference-R1	0.61	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A
+Novel_genomes_no_reference-R1	1.66	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Chroococcidiopsidaceae
+Novel_genomes_no_reference-R1	0.31	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Spirulinaceae
+Novel_genomes_no_reference-R1	3.69	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Gloeomargaritales; f__Gloeomargaritaceae
+Novel_genomes_no_reference-R1	0.68	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae
+Novel_genomes_no_reference-R1	0.56	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia; o__Sumerlaeales; f__Sumerlaeaceae
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae
+Novel_genomes_no_reference-R1	1.06	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__FEB-10
+Novel_genomes_no_reference-R1	1.44	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Tissierellales; f__Tepidimicrobiaceae
+Novel_genomes_no_reference-R1	1.8	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales; f__Clostridiaceae
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Lachnospirales; f__Lachnospiraceae
+Novel_genomes_no_reference-R1	1.28	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae
+Novel_genomes_no_reference-R1	2.06	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__Peribacterales; f__Peribacteraceae
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales; f__CG1-02-41-26
+Novel_genomes_no_reference-R1	0.51	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665
+Novel_genomes_no_reference-R1	0.46	Root; d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112
+Novel_genomes_no_reference-R1	0.57	Root; d__Bacteria; p__Desulfobacterota_C; c__Anaeroferrophillalia; o__Anaeroferrophillales; f__JAADEO01
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Eremiobacterota; c__Eremiobacteria; o__Baltobacterales; f__Baltobacteraceae
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales; f__Desulfitobacteriaceae
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia; o__PH28-bin88; f__PH28-bin88
+Novel_genomes_no_reference-R1	0.8	Root; d__Bacteria; p__Calditrichota; c__Calditrichia; o__Calditrichales; f__Calditrichaceae
+Novel_genomes_no_reference-R1	1.5	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae
+Novel_genomes_no_reference-R1	0.49	Root; d__Bacteria; p__Planctomycetota; c__Brocadiae; o__Brocadiales; f__Brocadiaceae
+Novel_genomes_no_reference-R1	0.46	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__Anaerohalosphaeraceae
+Novel_genomes_no_reference-R1	0.57	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__UBA12454
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__SG8-4
+Novel_genomes_no_reference-R1	0.38	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales; f__Denitrovibrionaceae
+Novel_genomes_no_reference-R1	0.78	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Acetohalobiaceae
+Novel_genomes_no_reference-R1	0.65	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Halobacteroidaceae
+Novel_genomes_no_reference-R1	0.8	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__SM23-35
+Novel_genomes_no_reference-R1	0.83	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Arcobacteraceae
+Novel_genomes_no_reference-R1	0.42	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015
+Novel_genomes_no_reference-R1	1.1	Root; d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales; f__Treponemataceae
+Novel_genomes_no_reference-R1	1.22	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Aquarickettsia
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__RICK02
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Midichloria
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Pseudooceanicola
+Novel_genomes_no_reference-R1	0.42	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Thioclava
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paenirhodobacter
+Novel_genomes_no_reference-R1	1.02	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseicyclus
+Novel_genomes_no_reference-R1	0.39	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Gemmobacter
+Novel_genomes_no_reference-R1	0.54	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseovarius
+Novel_genomes_no_reference-R1	0.47	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__SSD5
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseivivax
+Novel_genomes_no_reference-R1	1.41	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Limibaculum
+Novel_genomes_no_reference-R1	1.53	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae; g__Roseococcus
+Novel_genomes_no_reference-R1	1.31	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae; g__Gluconacetobacter
+Novel_genomes_no_reference-R1	1.15	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia
+Novel_genomes_no_reference-R1	2.83	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Emcibacteraceae; g__UBA4441
+Novel_genomes_no_reference-R1	1.16	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Chakrabartia
+Novel_genomes_no_reference-R1	2.16	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Casp-alpha2; g__UBA4479
+Novel_genomes_no_reference-R1	0.86	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__JAFAZJ01
+Novel_genomes_no_reference-R1	1.76	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Maricaulaceae; g__Oceanicaulis
+Novel_genomes_no_reference-R1	1.87	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Endozoicomonadaceae; g__Parendozoicomonas
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Endozoicomonadaceae; g__Endozoicomonas
+Novel_genomes_no_reference-R1	0.21	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Teredinibacter
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Pseudoteredinibacter
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Gilvimarinus
+Novel_genomes_no_reference-R1	0.48	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Pseudomaricurvus
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Cellvibrio
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Cellvibrionaceae; g__Microbulbifer
+Novel_genomes_no_reference-R1	2.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae; g__BB19
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae; g__Salinicola
+Novel_genomes_no_reference-R1	0.71	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae; g__Halomonas
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae; g__Kushneria
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Halomonadaceae; g__Phytohalomonas
+Novel_genomes_no_reference-R1	0.19	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudohongiellaceae; g__UBA9145
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylobacillus
+Novel_genomes_no_reference-R1	0.86	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__MM1
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__UBA6140
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylopumilus_A
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylotenera_A
+Novel_genomes_no_reference-R1	0.33	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__UBA9220; g__UBA9220
+Novel_genomes_no_reference-R1	1.24	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus
+Novel_genomes_no_reference-R1	1.92	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Mycetohabitans
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Pandoraea
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Polynucleobacter
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae; g__Neisseria
+Novel_genomes_no_reference-R1	0.69	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae; g__Alysiella
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae; g__Kingella
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae; g__Simonsiella
+Novel_genomes_no_reference-R1	2.48	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Gallionellaceae; g__Sideroxydans
+Novel_genomes_no_reference-R1	1.66	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Alteromonas
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Neptunicella
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Glaciecola
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__Paraglaciecola
+Novel_genomes_no_reference-R1	0.52	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Alteromonadaceae; g__WKFJ01
+Novel_genomes_no_reference-R1	0.45	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Vibrionaceae; g__Vibrio
+Novel_genomes_no_reference-R1	1.04	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Providencia
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Serratia_E
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Pantoea
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__BIGb0383
+Novel_genomes_no_reference-R1	0.93	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Erwinia
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Serratia
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Rouxiella
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Brenneria
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Serratia_G
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Xenorhabdus
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Sodalis_A
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__GCA-001602625
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Acerihabitans
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__SoCistrobi
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Enterobacteriaceae; g__Proteus
+Novel_genomes_no_reference-R1	1.7	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Neiellaceae; g__Neiella
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales; f__Aeromonadaceae; g__Oceanisphaera
+Novel_genomes_no_reference-R1	2.0	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrococcales; f__Aquisalimonadaceae; g__SKGQ01
+Novel_genomes_no_reference-R1	3.0	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__HK1; f__JABDQX01; g__JABDQX01
+Novel_genomes_no_reference-R1	1.0	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A; f__Enterobacteriaceae_A; g__Buchnera
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A; f__Enterobacteriaceae_A; g__GCA-012562765
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__QGON01
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__GCF-002020805
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__DRKS01
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__Sedimenticola_A
+Novel_genomes_no_reference-R1	0.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Chromatiales; f__Sedimenticolaceae; g__Sedimenticola
+Novel_genomes_no_reference-R1	1.67	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Granulosicoccales; f__Granulosicoccaceae; g__Granulosicoccus
+Novel_genomes_no_reference-R1	1.07	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Herbiconiux
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Nitriliruptorales; f__Nitriliruptoraceae; g__SLMP01
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Nitriliruptorales; f__Nitriliruptoraceae; g__CSSed11-175R1
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Nitriliruptorales; f__Nitriliruptoraceae; g__Egicoccus
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Nocardioides
+Novel_genomes_no_reference-R1	0.47	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__RAAP-2; g__Bog-756
+Novel_genomes_no_reference-R1	0.32	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8190; g__PALSA-743
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8190; g__Palsa-661
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8190; g__UBA8190
+Novel_genomes_no_reference-R1	0.66	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__JAAYBP01; g__JAAYBP01
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__JAAYBP01; g__JAFBAD01
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__JAAYBP01; g__JACPNX01
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__WQVT01
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__PALSA-688
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__JAFAWZ01
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__PALSA-693
+Novel_genomes_no_reference-R1	2.73	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Eggerthellaceae; g__CAG-1427
+Novel_genomes_no_reference-R1	1.75	Root; d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales; f__70-9; g__RHKX01
+Novel_genomes_no_reference-R1	2.94	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__SKNC01; f__SKNC01; g__SKLX01
+Novel_genomes_no_reference-R1	3.0	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__SKNC01; f__SKNC01; g__SKNC01
+Novel_genomes_no_reference-R1	0.55	Root; d__Bacteria; p__Firmicutes_D; c__Natranaerobiia; o__Natranaerobiales; f__Natranaerobiaceae; g__Natranaerobius
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Firmicutes_D; c__Natranaerobiia; o__Natranaerobiales; f__Natranaerobiaceae; g__Natranaerobius_A
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfolunaceae; g__Desulfoluna
+Novel_genomes_no_reference-R1	1.47	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Desulfolunaceae; g__JAHIRD01
+Novel_genomes_no_reference-R1	0.94	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__SURF-7; g__SURF-7
+Novel_genomes_no_reference-R1	2.5	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__Magnetomoraceae; g__Magnetomorum
+Novel_genomes_no_reference-R1	2.53	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales; f__Desulfocapsaceae; g__UBA2270
+Novel_genomes_no_reference-R1	2.07	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales; f__Desulfocapsaceae; g__Desulforhopalus
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales; f__Desulfocapsaceae; g__Desulfopila
+Novel_genomes_no_reference-R1	1.42	Root; d__Bacteria; p__Desulfobacterota; c__Desulfofervidia; o__Desulfofervidales; f__Desulfofervidaceae; g__Desulfofervidus
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales; f__Dissulfuribacteraceae; g__Dissulfuribacter
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales; f__QOAL01; g__S143-34
+Novel_genomes_no_reference-R1	0.63	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales; f__UBA3076; g__UBA3076
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales; f__S140-46; g__S140-46
+Novel_genomes_no_reference-R1	0.38	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia
+Novel_genomes_no_reference-R1	0.51	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Erysipelotrichales; f__Coprobacillaceae; g__Faecalibacillus
+Novel_genomes_no_reference-R1	0.61	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Erysipelotrichales; f__Coprobacillaceae; g__Erysipelatoclostridium
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__JACDOE01; f__JACDOE01; g__JACDOE01
+Novel_genomes_no_reference-R1	0.72	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L
+Novel_genomes_no_reference-R1	0.38	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_B; f__DSM-18226; g__Neobacillus
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Brevibacillales; f__Brevibacillaceae; g__CFH-S0501
+Novel_genomes_no_reference-R1	0.86	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Fulvivirga
+Novel_genomes_no_reference-R1	1.47	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Ohtaekwangia
+Novel_genomes_no_reference-R1	0.19	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__UBA6059
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Cecembia
+Novel_genomes_no_reference-R1	0.78	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Mongoliibacter
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Belliella
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Algoriphagus
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Fabibacter
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Echinicola
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Lunatimonas
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Ekhidna
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Reichenbachiella
+Novel_genomes_no_reference-R1	0.43	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Indibacter
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Marivirga
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__UBA4465
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__SZUA-3
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__ELB16-189
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Bernardetiaceae; g__UBA2561
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Bernardetiaceae; g__Bernardetia
+Novel_genomes_no_reference-R1	1.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Spirosomaceae; g__Spirosoma
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae; g__Adhaeribacter
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae; g__Pontibacter
+Novel_genomes_no_reference-R1	0.84	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae; g__Hymenobacter
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae; g__Rufibacter
+Novel_genomes_no_reference-R1	0.78	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__IN17
+Novel_genomes_no_reference-R1	0.5	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Aquaticitalea
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Jejuia
+Novel_genomes_no_reference-R1	0.41	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Winogradskyella
+Novel_genomes_no_reference-R1	0.95	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__QNYL01
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Urechidicola
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Tenacibaculum
+Novel_genomes_no_reference-R1	0.3	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium
+Novel_genomes_no_reference-R1	0.3	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Prevotella
+Novel_genomes_no_reference-R1	0.33	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola
+Novel_genomes_no_reference-R1	0.44	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Avibacteroides
+Novel_genomes_no_reference-R1	2.26	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__F082; g__SZUA-53
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__F082; g__Limimorpha
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Sediminibacterium
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Chitinophaga
+Novel_genomes_no_reference-R1	0.13	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__JJ008
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Flavihumibacter
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Ferruginibacter
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__JABDMH01
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__CAJQNM01
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__JABDLO01
+Novel_genomes_no_reference-R1	0.31	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__RFSX01
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__JADKBO01
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__Flavilitoribacter
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__DT-110
+Novel_genomes_no_reference-R1	0.81	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Plesiocystis
+Novel_genomes_no_reference-R1	1.74	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Enhygromyxa
+Novel_genomes_no_reference-R1	2.61	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Ga0077550
+Novel_genomes_no_reference-R1	2.41	Root; d__Bacteria; p__Caldisericota; c__Caldisericia; o__B22-G15; f__B22-G15; g__JAAYUH01
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Caldisericota; c__Caldisericia; o__B22-G15; f__B22-G15; g__B22-G15
+Novel_genomes_no_reference-R1	5.61	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__Leptolyngbya
+Novel_genomes_no_reference-R1	0.34	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__FACHB-36
+Novel_genomes_no_reference-R1	1.32	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__Stenomitos
+Novel_genomes_no_reference-R1	0.42	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__Pantanalinema
+Novel_genomes_no_reference-R1	0.19	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__JAAUSG01
+Novel_genomes_no_reference-R1	1.12	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__JSC-12
+Novel_genomes_no_reference-R1	0.46	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__ULC077BIN1
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__JAAUOZ01
+Novel_genomes_no_reference-R1	4.07	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Phormidesmiales; f__Phormidesmiaceae; g__Nodosilinea
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Phormidesmiales; f__Phormidesmiaceae; g__JACVSF01
+Novel_genomes_no_reference-R1	4.71	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc
+Novel_genomes_no_reference-R1	0.37	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Cylindrospermum
+Novel_genomes_no_reference-R1	1.94	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Aulosira
+Novel_genomes_no_reference-R1	0.74	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Fortiea
+Novel_genomes_no_reference-R1	1.52	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nodularia
+Novel_genomes_no_reference-R1	1.97	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Brasilonema
+Novel_genomes_no_reference-R1	1.08	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Trichormus
+Novel_genomes_no_reference-R1	0.95	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Hassallia
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Rivularia
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Amazonocrinis
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Aetokthonos
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Dendronalium
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Tolypothrix_B
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Anabaenopsis
+Novel_genomes_no_reference-R1	0.93	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Calothrix
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Dolichospermum
+Novel_genomes_no_reference-R1	0.25	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc_B
+Novel_genomes_no_reference-R1	0.19	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Mastigocladopsis
+Novel_genomes_no_reference-R1	1.29	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcoleaceae; g__Trichodesmium
+Novel_genomes_no_reference-R1	0.69	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcoleaceae; g__Okeania
+Novel_genomes_no_reference-R1	1.07	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__UBA11371
+Novel_genomes_no_reference-R1	1.56	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__FACHB-1375
+Novel_genomes_no_reference-R1	0.23	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__Phormidium_B
+Novel_genomes_no_reference-R1	2.56	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Xenococcaceae; g__Pleurocapsa
+Novel_genomes_no_reference-R1	1.61	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae; g__SIO2C1
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae; g__SIO3C6
+Novel_genomes_no_reference-R1	0.92	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae; g__FACHB-SPT15
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Chroococcidiopsidaceae; g__Aliterella
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__FACHB-T130; g__FACHB-T130
+Novel_genomes_no_reference-R1	2.24	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUOQ01
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__CCP2
+Novel_genomes_no_reference-R1	1.77	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUPA01
+Novel_genomes_no_reference-R1	1.77	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__Elainella
+Novel_genomes_no_reference-R1	0.32	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JACYLU01
+Novel_genomes_no_reference-R1	0.3	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__Leptolyngbya_A
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__DVEB01
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUSF01
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__FACHB-1407
+Novel_genomes_no_reference-R1	0.27	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__FACHB-8
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__O-77
+Novel_genomes_no_reference-R1	2.88	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Gloeomargaritales; f__Gloeomargaritaceae; g__Gloeomargarita
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae; g__RCC1774
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae; g__WVIC01
+Novel_genomes_no_reference-R1	1.1	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae; g__JAAURS01
+Novel_genomes_no_reference-R1	2.14	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_B
+Novel_genomes_no_reference-R1	2.12	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__FACHB-46; f__FACHB-46; g__FACHB-46
+Novel_genomes_no_reference-R1	0.6	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia; o__Sumerlaeales; f__Sumerlaeaceae; g__DRVG01
+Novel_genomes_no_reference-R1	0.65	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia; o__Sumerlaeales; f__Sumerlaeaceae; g__HGW-BRC1-1
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia; o__Sumerlaeales; f__JAAZBM01; g__JAAZBM01
+Novel_genomes_no_reference-R1	1.86	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__QQUY01
+Novel_genomes_no_reference-R1	0.71	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__FEB-10; g__JAADFN01
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__FEB-10; g__FEB-10
+Novel_genomes_no_reference-R1	0.14	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Thermoanaerobaculales; f__FEB-10; g__JACXWA01
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Tissierellales; f__Tepidimicrobiaceae; g__Schnuerera
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Tissierellales; f__Tepidimicrobiaceae; g__JAAYFE01
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Tissierellales; f__Tepidimicrobiaceae; g__Mt11
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Hathewaya
+Novel_genomes_no_reference-R1	0.9	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Fervidicola
+Novel_genomes_no_reference-R1	0.99	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Caldanaerovirga
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__ZC4RG34
+Novel_genomes_no_reference-R1	0.94	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Thermosediminibacter
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__Peribacterales; f__Peribacteraceae; g__JAAYXY01
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__Peribacterales; f__Peribacteraceae; g__UBA2170
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__Peribacterales; f__Peribacteraceae; g__GWB1-54-5
+Novel_genomes_no_reference-R1	0.57	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales; f__CG1-02-41-26; g__PFMI01
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales; f__CG1-02-41-26; g__DTIL01
+Novel_genomes_no_reference-R1	1.28	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus
+Novel_genomes_no_reference-R1	1.92	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanogingivalaceae; g__Nanogingivalis
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__UBA6224
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__GCA-2746885
+Novel_genomes_no_reference-R1	1.65	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Saccharimonadaceae; g__Saccharimonas
+Novel_genomes_no_reference-R1	0.41	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__JACDFO01; g__JACDFO01
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112; g__PDOX01
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112; g__Vampirococcus_A
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112; g__HOT-345
+Novel_genomes_no_reference-R1	0.75	Root; d__Bacteria; p__Desulfobacterota_C; c__Anaeroferrophillalia; o__Anaeroferrophillales; f__JAADEO01; g__JAADEO01
+Novel_genomes_no_reference-R1	2.13	Root; d__Bacteria; p__Desulfobacterota_C; c__Anaeroferrophillalia; o__Anaeroferrophillales; f__JAADEO01; g__DSCM01
+Novel_genomes_no_reference-R1	2.1	Root; d__Bacteria; p__Eremiobacterota; c__Eremiobacteria; o__Baltobacterales; f__Baltobacteraceae; g__Cybelea
+Novel_genomes_no_reference-R1	1.49	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales; f__Desulfitobacteriaceae; g__CEB3
+Novel_genomes_no_reference-R1	0.68	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia; o__DULZ01; f__DUOV01; g__DUOV01
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Calditrichota; c__Calditrichia; o__Calditrichales; f__Calditrichaceae; g__WJIP01
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Calditrichota; c__Calditrichia; o__Calditrichales; f__Calditrichaceae; g__JAFGKZ01
+Novel_genomes_no_reference-R1	0.08	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Paludisphaera
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__JAFANO01
+Novel_genomes_no_reference-R1	0.11	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Tautonia
+Novel_genomes_no_reference-R1	0.2	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Singulisphaera
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Aquisphaera
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__CAIYJE01
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Planctomycetota; c__Brocadiae; o__Brocadiales; f__Brocadiaceae; g__Brocadia
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Planctomycetota; c__Brocadiae; o__Brocadiales; f__Scalinduaceae; g__Scalindua
+Novel_genomes_no_reference-R1	0.06	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__Anaerohalosphaeraceae; g__4572-13
+Novel_genomes_no_reference-R1	0.83	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__UBA12454; g__UBA12454
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Sedimentisphaerales; f__UBA12454; g__JAFGGI01
+Novel_genomes_no_reference-R1	0.28	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales; f__Deferribacteraceae; g__Deferribacter
+Novel_genomes_no_reference-R1	0.25	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales; f__Calditerrivibrionaceae; g__Calditerrivibrio
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales; f__Denitrovibrionaceae; g__Denitrovibrio
+Novel_genomes_no_reference-R1	0.46	Root; d__Bacteria; p__Deferribacterota; c__Deferribacteres; o__Deferribacterales; f__Flexistipitaceae; g__Flexistipes
+Novel_genomes_no_reference-R1	0.6	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Acetohalobiaceae; g__Acetohalobium
+Novel_genomes_no_reference-R1	0.45	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Acetohalobiaceae; g__Selenihalanaerobacter
+Novel_genomes_no_reference-R1	1.18	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Acetohalobiaceae; g__Frackibacter
+Novel_genomes_no_reference-R1	0.05	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Acetohalobiaceae; g__Sporohalobacter
+Novel_genomes_no_reference-R1	0.19	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Halobacteroidaceae; g__Orenia
+Novel_genomes_no_reference-R1	0.22	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Halobacteroidaceae; g__Halobacteroides
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Firmicutes_F; c__Halanaerobiia; o__Halobacteroidales; f__Halobacteroidaceae; g__Halonatronum
+Novel_genomes_no_reference-R1	0.09	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae; g__XYC
+Novel_genomes_no_reference-R1	0.16	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae; g__Magnetobacterium
+Novel_genomes_no_reference-R1	1.06	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Arcobacteraceae; g__CAIJNA01
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Arcobacteraceae; g__Halarcobacter
+Novel_genomes_no_reference-R1	1.6	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015; g__VGTK01
+Novel_genomes_no_reference-R1	0.92	Root; d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales; f__Treponemataceae; g__Spiro-10
+Novel_genomes_no_reference-R1	0.93	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales; f__Methylomirabilaceae; g__Methylomirabilis
+Novel_genomes_no_reference-R1	1.78	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Aquarickettsia; s__Aquarickettsia sp903887235
+Novel_genomes_no_reference-R1	0.07	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Pseudooceanicola; s__Pseudooceanicola nanhaiensis
+Novel_genomes_no_reference-R1	0.24	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseicyclus; s__Roseicyclus sp001650845
+Novel_genomes_no_reference-R1	0.29	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__SSD5; s__SSD5 sp013693875
+Novel_genomes_no_reference-R1	0.35	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Limibaculum; s__Limibaculum sp016623495
+Novel_genomes_no_reference-R1	0.39	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia; s__Hansschlegelia sp003241695
+Novel_genomes_no_reference-R1	0.44	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Chakrabartia; s__Chakrabartia sp016704425
+Novel_genomes_no_reference-R1	0.58	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__JAFAZJ01; s__JAFAZJ01 sp016869975
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__JAFAZJ01; s__JAFAZJ01 sp019239835
+Novel_genomes_no_reference-R1	0.38	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018828385
+Novel_genomes_no_reference-R1	0.45	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018261905
+Novel_genomes_no_reference-R1	0.27	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Neisseriaceae; g__Alysiella; s__Alysiella filiformis
+Novel_genomes_no_reference-R1	0.18	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Herbiconiux; s__Herbiconiux sp015350805
+Novel_genomes_no_reference-R1	1.31	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes; s__Actinoplanes regularis
+Novel_genomes_no_reference-R1	0.39	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__SKNC01; f__SKNC01; g__SKLX01; s__SKLX01 sp007121375
+Novel_genomes_no_reference-R1	1.62	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__SURF-7; g__SURF-7; s__SURF-7 sp013824585
+Novel_genomes_no_reference-R1	0.41	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis
+Novel_genomes_no_reference-R1	1.65	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis_A
+Novel_genomes_no_reference-R1	1.38	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L; s__Bacillus_L okhensis
+Novel_genomes_no_reference-R1	1.56	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A; s__Weissella_A fabalis
+Novel_genomes_no_reference-R1	1.43	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Ohtaekwangia; s__Ohtaekwangia sp018598175
+Novel_genomes_no_reference-R1	1.98	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__IN17; s__IN17 sp002694465
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Plesiocystis; s__Plesiocystis pacifica
+Novel_genomes_no_reference-R1	0.93	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__Leptolyngbya; s__Leptolyngbya sp001548435
+Novel_genomes_no_reference-R1	0.15	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Leptolyngbyales; f__Leptolyngbyaceae; g__Leptolyngbya; s__Leptolyngbya sp014695255
+Novel_genomes_no_reference-R1	0.39	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014904695
+Novel_genomes_no_reference-R1	0.92	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014831675
+Novel_genomes_no_reference-R1	0.42	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp010091925
+Novel_genomes_no_reference-R1	0.17	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp015206995
+Novel_genomes_no_reference-R1	0.51	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Aulosira; s__Aulosira sp002154725
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nodularia; s__Nodularia sp015207155
+Novel_genomes_no_reference-R1	0.49	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Brasilonema; s__Brasilonema tolypothrichoides
+Novel_genomes_no_reference-R1	0.75	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Hassallia; s__Hassallia sp002218085
+Novel_genomes_no_reference-R1	0.1	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Hassallia; s__Hassallia hofmanni
+Novel_genomes_no_reference-R1	0.52	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Hassallia; s__Hassallia byssoidea
+Novel_genomes_no_reference-R1	0.21	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Microcoleaceae; g__Trichodesmium; s__Trichodesmium sp010672085
+Novel_genomes_no_reference-R1	2.08	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__UBA11371; s__UBA11371 sp003486305
+Novel_genomes_no_reference-R1	1.88	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae; g__SIO2C1; s__SIO2C1 sp010672925
+Novel_genomes_no_reference-R1	0.26	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUPA01; s__JAAUPA01 sp012034615
+Novel_genomes_no_reference-R1	0.36	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__PCC-6307; f__Cyanobiaceae; g__Synechococcus_B; s__Synechococcus_B spongiarum_B
+Novel_genomes_no_reference-R1	0.4	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__QQUY01; s__QQUY01 sp016700175
+Novel_genomes_no_reference-R1	0.48	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Fervidicola; s__Fervidicola ferrireducens
+Novel_genomes_no_reference-R1	1.12	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Caldanaerovirga; s__Caldanaerovirga acetigignens
+Novel_genomes_no_reference-R1	0.49	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus; s__Nanoperiomorbus sp905373275
+Novel_genomes_no_reference-R1	0.31	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus; s__Nanoperiomorbus periodonticus
+Novel_genomes_no_reference-R1	0.55	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus; s__Nanoperiomorbus sp905373385
+Novel_genomes_no_reference-R1	0.21	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus; s__Nanoperiomorbus sp905365345
+Novel_genomes_no_reference-R1	0.12	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanoperiomorbaceae; g__Nanoperiomorbus; s__Nanoperiomorbus sp013333515
+Novel_genomes_no_reference-R1	0.53	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanogingivalaceae; g__Nanogingivalis; s__Nanogingivalis sp010014525
+Novel_genomes_no_reference-R1	1.24	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales; f__Desulfitobacteriaceae; g__CEB3; s__CEB3 sp001029295
+Novel_genomes_no_reference-R1	0.37	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015; g__VGTK01; s__VGTK01 sp016874715
+Novel_genomes_no_reference-R1	1.68	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales; f__Methylomirabilaceae; g__Methylomirabilis; s__Methylomirabilis sp016207095

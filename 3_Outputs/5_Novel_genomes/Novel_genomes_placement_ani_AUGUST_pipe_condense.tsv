@@ -1,14 +1,14 @@
 sample	coverage	taxonomy
 Novel_genomes_placement_ani-R1	1.61	Root; d__Archaea
-Novel_genomes_placement_ani-R1	10.2	Root; d__Bacteria
+Novel_genomes_placement_ani-R1	10.26	Root; d__Bacteria
 Novel_genomes_placement_ani-R1	0.37	Root; d__Archaea; p__Thermoproteota
 Novel_genomes_placement_ani-R1	0.21	Root; d__Archaea; p__Thermoplasmatota
-Novel_genomes_placement_ani-R1	0.39	Root; d__Bacteria; p__Actinobacteriota
+Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Actinobacteriota
 Novel_genomes_placement_ani-R1	2.01	Root; d__Bacteria; p__Desulfobacterota
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Cyanobacteria
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Myxococcota
-Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Bacteroidota
-Novel_genomes_placement_ani-R1	0.26	Root; d__Bacteria; p__Proteobacteria
+Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Bacteroidota
+Novel_genomes_placement_ani-R1	0.43	Root; d__Bacteria; p__Proteobacteria
 Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Firmicutes_A
 Novel_genomes_placement_ani-R1	0.91	Root; d__Bacteria; p__Patescibacteria
 Novel_genomes_placement_ani-R1	0.8	Root; d__Bacteria; p__Acidobacteriota
@@ -18,15 +18,15 @@ Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Verrucomicrobiota
 Novel_genomes_placement_ani-R1	0.1	Root; d__Archaea; p__Thermoproteota; c__Thermoproteia
 Novel_genomes_placement_ani-R1	0.05	Root; d__Archaea; p__Aenigmatarchaeota; c__Aenigmatarchaeia
 Novel_genomes_placement_ani-R1	0.37	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia
-Novel_genomes_placement_ani-R1	0.46	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia
+Novel_genomes_placement_ani-R1	0.63	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia
 Novel_genomes_placement_ani-R1	0.23	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria
 Novel_genomes_placement_ani-R1	0.32	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria
 Novel_genomes_placement_ani-R1	2.01	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Caldisericota; c__Caldisericia
-Novel_genomes_placement_ani-R1	0.75	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia
-Novel_genomes_placement_ani-R1	3.97	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+Novel_genomes_placement_ani-R1	0.69	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia
+Novel_genomes_placement_ani-R1	3.91	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
 Novel_genomes_placement_ani-R1	2.95	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
 Novel_genomes_placement_ani-R1	0.29	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Firmicutes_C; c__Negativicutes
@@ -34,7 +34,7 @@ Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Desulfobacterota_B; c_
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria
 Novel_genomes_placement_ani-R1	0.23	Root; d__Bacteria; p__Firmicutes_A; c__Clostridia
-Novel_genomes_placement_ani-R1	0.91	Root; d__Bacteria; p__Firmicutes; c__Bacilli
+Novel_genomes_placement_ani-R1	0.97	Root; d__Bacteria; p__Firmicutes; c__Bacilli
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia
@@ -45,16 +45,16 @@ Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Actinobacteriota; c__A
 Novel_genomes_placement_ani-R1	1.53	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales
 Novel_genomes_placement_ani-R1	1.53	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales
 Novel_genomes_placement_ani-R1	1.12	Root; d__Bacteria; p__Desulfobacterota; c__Dissulfuribacteria; o__Dissulfuribacterales
-Novel_genomes_placement_ani-R1	2.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales
+Novel_genomes_placement_ani-R1	2.17	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales
 Novel_genomes_placement_ani-R1	0.49	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales
 Novel_genomes_placement_ani-R1	0.69	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales
 Novel_genomes_placement_ani-R1	0.79	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
-Novel_genomes_placement_ani-R1	1.8	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
+Novel_genomes_placement_ani-R1	1.86	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales
 Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales
 Novel_genomes_placement_ani-R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__HIMB59
-Novel_genomes_placement_ani-R1	2.26	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales
+Novel_genomes_placement_ani-R1	2.43	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales
 Novel_genomes_placement_ani-R1	0.9	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales
 Novel_genomes_placement_ani-R1	1.63	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales
@@ -68,7 +68,7 @@ Novel_genomes_placement_ani-R1	0.37	Root; d__Bacteria; p__Firmicutes_B; c__Moore
 Novel_genomes_placement_ani-R1	0.56	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales
 Novel_genomes_placement_ani-R1	1.82	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae
-Novel_genomes_placement_ani-R1	0.51	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae
+Novel_genomes_placement_ani-R1	0.63	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae
 Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688
 Novel_genomes_placement_ani-R1	0.65	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__JAAYBP01
 Novel_genomes_placement_ani-R1	0.28	Root; d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Eggerthellaceae
@@ -89,7 +89,7 @@ Novel_genomes_placement_ani-R1	8.14	Root; d__Bacteria; p__Bacteroidota; c__Bacte
 Novel_genomes_placement_ani-R1	1.99	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae
 Novel_genomes_placement_ani-R1	0.12	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Spirosomaceae
 Novel_genomes_placement_ani-R1	0.72	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae
-Novel_genomes_placement_ani-R1	9.96	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+Novel_genomes_placement_ani-R1	9.89	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
 Novel_genomes_placement_ani-R1	0.12	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae
 Novel_genomes_placement_ani-R1	0.4	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae
 Novel_genomes_placement_ani-R1	0.29	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae
@@ -101,7 +101,7 @@ Novel_genomes_placement_ani-R1	0.75	Root; d__Bacteria; p__Proteobacteria; c__Alp
 Novel_genomes_placement_ani-R1	0.63	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae
 Novel_genomes_placement_ani-R1	0.15	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Pelagibacterales; f__Pelagibacteraceae
 Novel_genomes_placement_ani-R1	1.79	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae
-Novel_genomes_placement_ani-R1	0.64	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae
+Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae
 Novel_genomes_placement_ani-R1	1.01	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae
 Novel_genomes_placement_ani-R1	0.05	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Sulfuriferulaceae
 Novel_genomes_placement_ani-R1	0.22	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Sulfuricellaceae
@@ -129,7 +129,7 @@ Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Firmicutes_B; c__Desul
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia; o__DULZ01; f__DULZ01
 Novel_genomes_placement_ani-R1	0.72	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae
 Novel_genomes_placement_ani-R1	0.86	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Herbiconiux
-Novel_genomes_placement_ani-R1	3.13	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes
+Novel_genomes_placement_ani-R1	0.56	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes
 Novel_genomes_placement_ani-R1	0.05	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__PALSA-693
 Novel_genomes_placement_ani-R1	0.07	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__WQVT01
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Acidimicrobiales; f__Palsa-688; g__JAFAWZ01
@@ -151,14 +151,14 @@ Novel_genomes_placement_ani-R1	1.47	Root; d__Bacteria; p__Cyanobacteria; c__Cyan
 Novel_genomes_placement_ani-R1	1.02	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__UBA11371
 Novel_genomes_placement_ani-R1	1.63	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__FACHB-1375
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__Phormidium_B
-Novel_genomes_placement_ani-R1	1.24	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc
+Novel_genomes_placement_ani-R1	1.03	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc
 Novel_genomes_placement_ani-R1	1.51	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUPA01
 Novel_genomes_placement_ani-R1	2.5	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUOQ01
 Novel_genomes_placement_ani-R1	1.38	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__Elainella
 Novel_genomes_placement_ani-R1	0.07	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__Leptolyngbya_A
 Novel_genomes_placement_ani-R1	0.09	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUSF01
-Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JACYLU01
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__CCP2
+Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JACYLU01
 Novel_genomes_placement_ani-R1	2.68	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Gloeomargaritales; f__Gloeomargaritaceae; g__Gloeomargarita
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae; g__Acaryochloris
 Novel_genomes_placement_ani-R1	0.88	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Thermosynechococcales; f__Thermosynechococcaceae; g__JAAURS01
@@ -168,14 +168,14 @@ Novel_genomes_placement_ani-R1	1.66	Root; d__Bacteria; p__Myxococcota; c__Polyan
 Novel_genomes_placement_ani-R1	0.78	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Plesiocystis
 Novel_genomes_placement_ani-R1	2.26	Root; d__Bacteria; p__Caldisericota; c__Caldisericia; o__B22-G15; f__B22-G15; g__JAAYUH01
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Caldisericota; c__Caldisericia; o__B22-G15; f__B22-G15; g__B22-G15
-Novel_genomes_placement_ani-R1	0.62	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__IN17
-Novel_genomes_placement_ani-R1	0.14	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Seonamhaeicola
-Novel_genomes_placement_ani-R1	0.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa
+Novel_genomes_placement_ani-R1	0.63	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__IN17
 Novel_genomes_placement_ani-R1	0.46	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Jejuia
+Novel_genomes_placement_ani-R1	0.15	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Seonamhaeicola
+Novel_genomes_placement_ani-R1	0.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa
 Novel_genomes_placement_ani-R1	0.7	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Aquaticitalea
-Novel_genomes_placement_ani-R1	0.15	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Psychroserpens
+Novel_genomes_placement_ani-R1	0.16	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Psychroserpens
 Novel_genomes_placement_ani-R1	0.08	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Aestuariibaculum
-Novel_genomes_placement_ani-R1	0.58	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Winogradskyella
+Novel_genomes_placement_ani-R1	0.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Winogradskyella
 Novel_genomes_placement_ani-R1	1.33	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__QNYL01
 Novel_genomes_placement_ani-R1	1.19	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Ohtaekwangia
 Novel_genomes_placement_ani-R1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Fabibacter
@@ -184,14 +184,14 @@ Novel_genomes_placement_ani-R1	0.91	Root; d__Bacteria; p__Bacteroidota; c__Bacte
 Novel_genomes_placement_ani-R1	0.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Prevotella
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Phocaeicola
 Novel_genomes_placement_ani-R1	0.49	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Avibacteroides
-Novel_genomes_placement_ani-R1	0.19	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paenirhodobacter
-Novel_genomes_placement_ani-R1	0.25	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus
+Novel_genomes_placement_ani-R1	0.2	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paenirhodobacter
+Novel_genomes_placement_ani-R1	0.19	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Paracoccus
 Novel_genomes_placement_ani-R1	1.58	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Limibaculum
 Novel_genomes_placement_ani-R1	0.3	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__SSD5
-Novel_genomes_placement_ani-R1	0.2	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Thioclava
+Novel_genomes_placement_ani-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Thioclava
 Novel_genomes_placement_ani-R1	0.27	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Roseovarius
 Novel_genomes_placement_ani-R1	0.05	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Gemmobacter
-Novel_genomes_placement_ani-R1	1.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia
+Novel_genomes_placement_ani-R1	1.01	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia
 Novel_genomes_placement_ani-R1	1.98	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Maricaulaceae; g__Oceanicaulis
 Novel_genomes_placement_ani-R1	1.69	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Aquarickettsia
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Midichloria
@@ -202,11 +202,11 @@ Novel_genomes_placement_ani-R1	1.51	Root; d__Bacteria; p__Proteobacteria; c__Alp
 Novel_genomes_placement_ani-R1	1.93	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae; g__Roseococcus
 Novel_genomes_placement_ani-R1	0.89	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__MM1
 Novel_genomes_placement_ani-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylobacillus
-Novel_genomes_placement_ani-R1	0.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylovorus
 Novel_genomes_placement_ani-R1	0.2	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__UBA6140
+Novel_genomes_placement_ani-R1	0.3	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylovorus
 Novel_genomes_placement_ani-R1	0.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae; g__Methylopumilus_A
 Novel_genomes_placement_ani-R1	0.64	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__UBA9220; g__UBA9220
-Novel_genomes_placement_ani-R1	4.08	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus
+Novel_genomes_placement_ani-R1	2.05	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus
 Novel_genomes_placement_ani-R1	0.1	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Paraburkholderia
 Novel_genomes_placement_ani-R1	1.86	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Mycetohabitans
 Novel_genomes_placement_ani-R1	0.09	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Nitrosomonadaceae; g__Nitrosomonas
@@ -239,9 +239,8 @@ Novel_genomes_placement_ani-R1	0.14	Root; d__Bacteria; p__Campylobacterota; c__C
 Novel_genomes_placement_ani-R1	0.31	Root; d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Arcobacteraceae; g__Halarcobacter
 Novel_genomes_placement_ani-R1	0.5	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Fervidicola
 Novel_genomes_placement_ani-R1	0.07	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Caldanaerovirga
-Novel_genomes_placement_ani-R1	0.89	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A
-Novel_genomes_placement_ani-R1	0.36	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia
-Novel_genomes_placement_ani-R1	0.82	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L
+Novel_genomes_placement_ani-R1	0.84	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A
+Novel_genomes_placement_ani-R1	0.77	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L
 Novel_genomes_placement_ani-R1	2.92	Root; d__Bacteria; p__Eremiobacterota; c__Eremiobacteria; o__Baltobacterales; f__Baltobacteraceae; g__Cybelea
 Novel_genomes_placement_ani-R1	1.57	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanogingivalaceae; g__Nanogingivalis
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__UBA4665
@@ -257,21 +256,19 @@ Novel_genomes_placement_ani-R1	2.12	Root; d__Bacteria; p__Desulfobacterota_C; c_
 Novel_genomes_placement_ani-R1	2.55	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__QQUY01
 Novel_genomes_placement_ani-R1	1.24	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales; f__Desulfitobacteriaceae; g__CEB3
 Novel_genomes_placement_ani-R1	0.45	Root; d__Bacteria; p__Firmicutes_B; c__Moorellia; o__DULZ01; f__DUOV01; g__DUOV01
-Novel_genomes_placement_ani-R1	0.47	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales; f__Methylomirabilaceae; g__Methylomirabilis
+Novel_genomes_placement_ani-R1	0.42	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales; f__Methylomirabilaceae; g__Methylomirabilis
 Novel_genomes_placement_ani-R1	0.11	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae; g__Magnetobacterium
 Novel_genomes_placement_ani-R1	0.09	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae; g__HCH-1
 Novel_genomes_placement_ani-R1	0.06	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Magnetobacteriaceae; g__XYC
 Novel_genomes_placement_ani-R1	0.16	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Herbiconiux; s__Herbiconiux sp015350805
-Novel_genomes_placement_ani-R1	1.17	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes; s__Actinoplanes regularis
-Novel_genomes_placement_ani-R1	0.27	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes; s__Actinoplanes liguriensis
-Novel_genomes_placement_ani-R1	0.31	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes; s__Actinoplanes sp000389965
+Novel_genomes_placement_ani-R1	1.13	Root; d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes; s__Actinoplanes regularis
 Novel_genomes_placement_ani-R1	1.98	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales; f__SURF-7; g__SURF-7; s__SURF-7 sp013824585
 Novel_genomes_placement_ani-R1	0.32	Root; d__Bacteria; p__Firmicutes_D; c__Dethiobacteria; o__SKNC01; f__SKNC01; g__SKLX01; s__SKLX01 sp007121375
 Novel_genomes_placement_ani-R1	1.11	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Coleofasciculaceae; g__SIO2C1; s__SIO2C1 sp010672925
 Novel_genomes_placement_ani-R1	1.38	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Phormidiaceae_A; g__UBA11371; s__UBA11371 sp003486305
-Novel_genomes_placement_ani-R1	0.4	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014904695
-Novel_genomes_placement_ani-R1	0.15	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp010091925
-Novel_genomes_placement_ani-R1	0.52	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014831675
+Novel_genomes_placement_ani-R1	0.39	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014904695
+Novel_genomes_placement_ani-R1	0.14	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp010091925
+Novel_genomes_placement_ani-R1	0.51	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Cyanobacteriales; f__Nostocaceae; g__Nostoc; s__Nostoc sp014831675
 Novel_genomes_placement_ani-R1	0.23	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Elainellales; f__Elainellaceae; g__JAAUPA01; s__JAAUPA01 sp012034615
 Novel_genomes_placement_ani-R1	0.36	Root; d__Bacteria; p__Cyanobacteria; c__Cyanobacteriia; o__Gloeomargaritales; f__Gloeomargaritaceae; g__Gloeomargarita; s__Gloeomargarita lithophora
 Novel_genomes_placement_ani-R1	0.15	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Nannocystales; f__Nannocystaceae; g__Plesiocystis; s__Plesiocystis pacifica
@@ -279,25 +276,24 @@ Novel_genomes_placement_ani-R1	2.41	Root; d__Bacteria; p__Bacteroidota; c__Bacte
 Novel_genomes_placement_ani-R1	1.57	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__Ohtaekwangia; s__Ohtaekwangia sp018598175
 Novel_genomes_placement_ani-R1	0.3	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Limibaculum; s__Limibaculum sp016623495
 Novel_genomes_placement_ani-R1	0.22	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__SSD5; s__SSD5 sp013693875
-Novel_genomes_placement_ani-R1	0.08	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Thioclava; s__Thioclava arenosa
-Novel_genomes_placement_ani-R1	0.42	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia; s__Hansschlegelia sp003241695
+Novel_genomes_placement_ani-R1	0.07	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Thioclava; s__Thioclava arenosa
+Novel_genomes_placement_ani-R1	0.41	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylopilaceae; g__Hansschlegelia; s__Hansschlegelia sp003241695
 Novel_genomes_placement_ani-R1	1.32	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__Midichloriaceae; g__Aquarickettsia; s__Aquarickettsia sp903887235
 Novel_genomes_placement_ani-R1	0.68	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Chakrabartia; s__Chakrabartia sp016704425
 Novel_genomes_placement_ani-R1	0.53	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__JAFAZJ01; s__JAFAZJ01 sp016869975
 Novel_genomes_placement_ani-R1	0.14	Root; d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__JAFAZJ01; s__JAFAZJ01 sp019239835
-Novel_genomes_placement_ani-R1	0.36	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018828385
-Novel_genomes_placement_ani-R1	0.55	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018261905
-Novel_genomes_placement_ani-R1	0.23	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp013335535
+Novel_genomes_placement_ani-R1	0.39	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018828385
+Novel_genomes_placement_ani-R1	0.47	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018261905
 Novel_genomes_placement_ani-R1	0.31	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Azonexus; s__Azonexus sp018780195
 Novel_genomes_placement_ani-R1	0.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Oleiphilaceae; g__BB19; s__BB19 sp016744695
 Novel_genomes_placement_ani-R1	0.25	Root; d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Endozoicomonadaceae; g__Parendozoicomonas; s__Parendozoicomonas haliclonae
 Novel_genomes_placement_ani-R1	0.7	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015; g__VGTK01; s__VGTK01 sp016874715
 Novel_genomes_placement_ani-R1	0.86	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Fervidicola; s__Fervidicola ferrireducens
 Novel_genomes_placement_ani-R1	1.54	Root; d__Bacteria; p__Firmicutes_A; c__Thermosediminibacteria; o__Thermosediminibacterales; f__Thermosediminibacteraceae; g__Caldanaerovirga; s__Caldanaerovirga acetigignens
-Novel_genomes_placement_ani-R1	2.12	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A; s__Weissella_A fabalis
-Novel_genomes_placement_ani-R1	0.47	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis
-Novel_genomes_placement_ani-R1	1.39	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis_A
-Novel_genomes_placement_ani-R1	0.93	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L; s__Bacillus_L okhensis
+Novel_genomes_placement_ani-R1	2.11	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Weissella_A; s__Weissella_A fabalis
+Novel_genomes_placement_ani-R1	0.46	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis
+Novel_genomes_placement_ani-R1	1.36	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae_L; g__Fredinandcohnia; s__Fredinandcohnia onubensis_A
+Novel_genomes_placement_ani-R1	0.92	Root; d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales_H; f__Bacillaceae_D; g__Bacillus_L; s__Bacillus_L okhensis
 Novel_genomes_placement_ani-R1	0.3	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanogingivalaceae; g__Nanogingivalis; s__Nanogingivalis sp010014525
 Novel_genomes_placement_ani-R1	0.41	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__QQUY01; s__QQUY01 sp016700175
 Novel_genomes_placement_ani-R1	1.72	Root; d__Bacteria; p__Firmicutes_B; c__Desulfitobacteriia; o__Desulfitobacteriales; f__Desulfitobacteriaceae; g__CEB3; s__CEB3 sp001029295
