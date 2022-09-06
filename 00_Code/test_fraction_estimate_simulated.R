@@ -150,6 +150,52 @@ df2 %>%
 
 ggsave("3_Outputs/1_Simulated_zymo/Expectation_maximisation.png", width = 12, height = 8, units = "in")
 
+
+
+## FOR POSTER
+
+df3 <- tibble(
+  `Zymo mock` = zymo_bact_arch_estimate_AUG_mbp,
+  `+ human DNA` = zymo_bact_arch_estimate_homo_AUG_mbp,
+  `+ plant DNA` = zymo_bact_arch_estimate_arabidopsis_AUG_mbp,
+  `+ plasmodium DNA` = zymo_bact_arch_estimate_plasmodium_AUG_mbp,
+) %>%
+  pivot_longer(everything(), names_to = "method", values_to = "mbp_estimate") %>%
+  mutate(percent_estimated = mbp_estimate/332.3029)
+
+figure1_col <- c("Zymo mock" = "#00b0f0", "+ human DNA" = "#e2f0d9", 
+                 "+ plant DNA" = "#51a145", "+ plasmodium DNA" = "#00bfc4")
+
+level_order <- c("Zymo mock", "+ human DNA", "+ plant DNA", "+ plasmodium DNA")
+
+
+df3 %>%
+  ggplot(aes(x = factor(method, level = level_order), 
+             y = percent_estimated * 100, 
+             fill = method)
+         )+
+  geom_bar(stat = "identity") +
+  geom_hline(yintercept = 100, colour = "yellow", linetype="dashed", size = 2) +
+  labs(y = "Percent of bacterial DNA estimated") +
+  theme_classic() +
+  scale_fill_manual(values = figure1_col) +
+  coord_cartesian(expand = FALSE) +
+  theme(
+    legend.position = 0,
+    axis.text = element_text(size = 15, colour = "white"),
+    axis.title.x = element_blank(),
+    axis.title.y = element_text(size = 18, colour = "white"),
+    plot.background = element_rect(fill = "transparent", colour = 'transparent'),
+    panel.background = element_rect(fill = 'transparent', colour = 'transparent'),
+    axis.ticks = element_line(colour = "#e2f0d9"),
+    axis.line = element_line(colour = "#e2f0d9")
+  ) 
+
+ggsave("PosterFigure1.png", width = 8, height = 6, units = "in", bg = 'transparent')
+
+
+
+
 ##Why the ~10% discrepancy between ground_truth and estimate?
 # Taxonomic specificity of SingleM (i.e. we don't have all species classifications)
 # N.B. Lactobacillus fermentum == Limosilactobacillus fermentum on gtdb!!!!

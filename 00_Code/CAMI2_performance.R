@@ -195,6 +195,56 @@ df_all_perc %>%
 
 ggsave("3_Outputs/3_CAMI2/SingleM_CAMI2_HomeBrew_PERCENTAGE.pdf", width = 10, height = 10, unit = "in")
 
+
+
+## Poster figure
+
+df4 <- tibble(marine0_HM_august_singlem_performance, 
+              smadness0_HM_august_singlem_performance) %>%
+  pivot_longer(everything(), names_to = "environment", values_to = "estimate") %>%
+  mutate(origin = case_when(str_detect(environment, "HM") ~ "home_made",
+                            str_detect(environment, "CAMISIM") ~ "CAMISIM"),
+         community = case_when(str_detect(environment, "marine") ~ "marine",
+                               str_detect(environment, "smad") ~ "strain-madness")
+  )
+
+figure2_col <- c("marine" = "#002060", "strain-madness" = "RED")
+
+
+df4 %>%
+  ggplot(aes(x = community, 
+             y = estimate * 100, 
+             fill = community)
+  )+
+  geom_bar(stat = "identity") +
+  geom_hline(yintercept = 100, colour = "yellow", linetype="dashed", size = 2) +
+  labs(y = "Percent of bacterial DNA estimated") +
+  theme_classic() +
+  scale_fill_manual(values = figure2_col) +
+  coord_cartesian(expand = FALSE) +
+  theme(
+    legend.position = 0,
+    axis.text = element_text(size = 15, colour = "white"),
+    axis.title.x = element_blank(),
+    axis.title.y = element_text(size = 18, colour = "white"),
+    plot.background = element_rect(fill = "transparent", colour = 'transparent'),
+    panel.background = element_rect(fill = 'transparent', colour = 'transparent'),
+    axis.ticks = element_line(colour = "#e2f0d9"),
+    axis.line = element_line(colour = "#e2f0d9")
+  ) 
+
+ggsave("PosterFigure2.png", width = 5, height = 6, units = "in", bg = 'transparent')
+
+
+
+
+
+
+
+
+
+
+
 #Check coverage of plasmids
 
 gt_plasmids <- gt %>% 
