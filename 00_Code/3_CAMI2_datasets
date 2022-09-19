@@ -60,6 +60,20 @@ cat strain_header.txt strain0_coverage.txt > CAMI2_strain0.ini
 
 rm *.txt
 
+##Some refenences have contigs <390 bp (therefore can't use them), fix:
+
+for i in plant/genomes/*.fasta;
+  do reformat.sh \
+  in=$i \
+  out=${i/.fasta/_FIXED.fasta} \
+  minlength=1000;
+done
+
+for i in plant/genomes/*FIXED.fasta;
+  do mv $i ${i/_FIXED/};
+done
+
+
 ##Create the simulated metagenomes
 conda activate /home/projects/ku-cbd/people/rapeis/.conda-anvio-7.1
 

@@ -1,7 +1,7 @@
 ################################################################################
-## Testing out the estimate microbial fraction function on CAMI2 datasets 
+## Escaping version control hell 
 ## 
-## Raphael Eisenhofer July 2022
+## Raphael Eisenhofer Sept 2022
 ################################################################################
 
 ## load libraries/functions
@@ -122,11 +122,11 @@ df_all <- tibble(
 ) %>%
   pivot_longer(everything(), names_to = "environment", values_to = "estimate") %>%
   mutate(origin = case_when(str_detect(environment, "HM") ~ "home_made",
-                               str_detect(environment, "CAMISIM") ~ "CAMISIM",
-                               str_detect(environment, "groundtruth") ~ "ground_truth"),
+                            str_detect(environment, "CAMISIM") ~ "CAMISIM",
+                            str_detect(environment, "groundtruth") ~ "ground_truth"),
          community = case_when(str_detect(environment, "marine") ~ "marine",
                                str_detect(environment, "smad") ~ "strain-madness")
-         )
+  )
 
 df_all %>%
   ggplot(aes(x = reorder(environment, estimate), 

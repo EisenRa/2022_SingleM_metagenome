@@ -64,6 +64,11 @@ sim_zymo_spiked_homo_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simu
 sim_zymo_spiked_arabidopsis_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_Spiked_Arabidopsis_AUGUST_pipe_condense.tsv")
 sim_zymo_spiked_plasmodium_condense_AUG <- read_delim("3_Outputs/1_Simulated_zymo/Simulated_Zymo_Spiked_Plasmodium_AUGUST_pipe_condense.tsv")
 
+#double checking sept deployment
+sim_zymo_condense_SEPT <- read_delim("3_Outputs/1_Simulated_zymo/test_sept_zymo_condense.tsv")
+zymo_bact_arch_estimate_SEPT_bp <- sum(estimate_microbial_fraction(sim_zymo_condense_SEPT)$estimated_bp)
+zymo_bact_arch_estimate_SEPT_mbp <- zymo_bact_arch_estimate_SEPT_bp / 1000000
+
 zymo_bact_arch_estimate_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_condense_AUG)$estimated_bp)
 zymo_bact_arch_estimate_AUG_mbp <- zymo_bact_arch_estimate_AUG_bp / 1000000
 zymo_bact_arch_estimate_homo_AUG_bp <- sum(estimate_microbial_fraction(sim_zymo_spiked_homo_condense_AUG)$estimated_bp)
